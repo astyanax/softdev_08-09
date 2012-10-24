@@ -1,0 +1,30 @@
+# Project: dbcreate
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe -D__DEBUG__
+CC   = gcc.exe -D__DEBUG__
+WINDRES = windres.exe
+RES  = 
+OBJ  = dbcreate.o $(RES)
+LINKOBJ  = dbcreate.o $(RES)
+LIBS =  -L"D:/Programs/Dev-Cpp/lib" -enable-auto-import HF_Lib.lib BF_Lib.lib  -g3 
+INCS =  -I"D:/Programs/Dev-Cpp/include" 
+CXXINCS =  -I"D:/Programs/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"D:/Programs/Dev-Cpp/include/c++/3.4.2/backward"  -I"D:/Programs/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"D:/Programs/Dev-Cpp/include/c++/3.4.2"  -I"D:/Programs/Dev-Cpp/include" 
+BIN  = dbcreate.exe
+CXXFLAGS = $(CXXINCS)   -fexceptions -g3
+CFLAGS = $(INCS)    -fexceptions -g3
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before dbcreate.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "dbcreate.exe" $(LIBS)
+
+dbcreate.o: dbcreate.c
+	$(CC) -c dbcreate.c -o dbcreate.o $(CFLAGS)

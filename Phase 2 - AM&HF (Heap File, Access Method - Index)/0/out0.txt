@@ -1,0 +1,3152 @@
+Inserting Athlete record (180, "APOSTOLOS", "TASKOYDHS")
+OK!
+Inserting Athlete record (260, "GEVRGIOS", "GAZHS")
+OK!
+Inserting Athlete record (104, "ELENH", "KVSTH")
+OK!
+Inserting Athlete record (304, "MARIA", "KARASTAMATH")
+OK!
+Inserting Athlete record (156, "SYKARAS", "TZEIMS")
+OK!
+Inserting Athlete record (322, "GIANNOYLA", "KAFETZH")
+OK!
+Inserting Athlete record (176, "MARIA-LOYIZA", "BRYVNH")
+OK!
+Inserting Athlete record (179, "MPESIK", "ASLANASBILI")
+OK!
+Inserting Athlete record (365, "OLGA", "PELEKANOY")
+OK!
+Inserting Athlete record (220, "MARIA", "GIATRAKOY")
+OK!
+Inserting Athlete record (50, "AUANASIOS", "PAXOYMAS")
+OK!
+Inserting Athlete record (56, "GEVRGIOS", "KONTOGOYRHS")
+OK!
+Inserting Athlete record (97, "EIRHNH", "KABARNOY")
+OK!
+Inserting Athlete record (341, "STYLIANOS", "DHMOTSIOS")
+OK!
+Inserting Athlete record (87, "ANDREAS", "KILIGKARIDHS")
+OK!
+Inserting Athlete record (110, "MARIANNA", "LYMPERTA")
+OK!
+Inserting Athlete record (223, "KATSAITH", "ELENH")
+OK!
+Inserting Athlete record (346, "GEVRGIOS", "ARGYROPOYLOS")
+OK!
+Inserting Athlete record (144, "MAHSTRALHS", "ALEJANDROS")
+OK!
+Inserting Athlete record (193, "NIKH", "GKARAGKOYNH")
+OK!
+Inserting Athlete record (29, "ARXONTIA", "BOLAKAKH")
+OK!
+Inserting Athlete record (267, "DIONYSIOS", "GEVRGAKOPOYLOS")
+OK!
+Inserting Athlete record (68, "EIRHNH", "STAXTIARH")
+OK!
+Inserting Athlete record (187, "KVNSTANTINOS", "ARKOYDEAS")
+OK!
+Inserting Athlete record (173, "FANH", "CAUA")
+OK!
+Inserting Athlete record (218, "DHMHTRIOS", "GEVRGALHS")
+OK!
+Inserting Athlete record (158, "XAISLER", "PANAGIVTHS")
+OK!
+Inserting Athlete record (34, "GKERTA", "LEMAN")
+OK!
+Inserting Athlete record (310, "DHMHTRA", "NTOBA")
+OK!
+Inserting Athlete record (221, "ALEJANDRA", "KABBADA")
+OK!
+Inserting Athlete record (339, "KVNSTANTINOS", "KENTERHS")
+OK!
+Inserting Athlete record (332, "AUANASIA", "PERRA")
+OK!
+Inserting Athlete record (195, "ELENH", "KIOSH")
+OK!
+Inserting Athlete record (39, "MIKAELA-XAINTI", "ANTIKATZIDH")
+OK!
+Inserting Athlete record (273, "NIKOLAOS", "ANTVNIADHS")
+OK!
+Inserting Athlete record (7, "XARIKLEIA", "KASTRITSH")
+OK!
+Inserting Athlete record (379, "XARALAMPOS", "PAPAIVANNOY")
+OK!
+Inserting Athlete record (150, "KVNSTANTINOS", "MPRANTLH")
+OK!
+Inserting Athlete record (215, "EMMANOYHL", "KVTOYLAS")
+OK!
+Inserting Athlete record (177, "NESTVRAS", "MPATZELAS")
+OK!
+Inserting Athlete record (313, "MIRELA", "MANIANI")
+OK!
+Inserting Athlete record (234, "SOFIA-ANTVNIA", "SMIU")
+OK!
+Inserting Athlete record (105, "ANTVNIA", "MAXAIRA")
+OK!
+Inserting Athlete record (293, "RENE", "SARA")
+OK!
+Inserting Athlete record (83, "MARIA", "FEREKIDH")
+OK!
+Inserting Athlete record (35, "ALEJANDRA", "SOYRLA")
+OK!
+Inserting Athlete record (79, "KVNSTANTINOS", "TSARTSARHS")
+OK!
+Inserting Athlete record (190, "KVNSTANTINOS", "UANOS")
+OK!
+Inserting Athlete record (214, "KVNSTANTINOS", "XRISTOFIDELHS")
+OK!
+Inserting Athlete record (229, "ILHANA", "MOSXOY")
+OK!
+Inserting Athlete record (283, "MPASOR", "LYN")
+OK!
+Inserting Athlete record (254, "IEROKLHS", "STOLTIDHS")
+OK!
+Inserting Athlete record (255, "IVANNHS", "TARALIDHS")
+OK!
+Inserting Athlete record (271, "EYAGGELOS", "LIOGRHS")
+OK!
+Inserting Athlete record (375, "IOYLIETA", "MPOYKOYBALA")
+OK!
+Inserting Athlete record (266, "AGAUH", "KASOYMH")
+OK!
+Inserting Athlete record (93, "IVANNHS", "GABRIHLIDHS")
+OK!
+Inserting Athlete record (298, "AUHNA", "PAPAGIANNH")
+OK!
+Inserting Athlete record (311, "XRYSOSTOMIA", "IAKVBOY")
+OK!
+Inserting Athlete record (200, "XARIKLEIA", "SAKKOYLA")
+OK!
+Inserting Athlete record (21, "MARIA", "KAKIOY")
+OK!
+Inserting Athlete record (377, "ALEJIA", "KOYRTELESH")
+OK!
+Inserting Athlete record (317, "STYLIANH", "TSIKOYNA")
+OK!
+Inserting Athlete record (334, "GEVRGIOS", "UEODVRIDHS")
+OK!
+Inserting Athlete record (162, "EYFROSYNH", "SFYRH")
+OK!
+Inserting Athlete record (123, "ALEJANDROS", "TSOLTOS")
+OK!
+Inserting Athlete record (18, "BLASIOS", "MARAS")
+OK!
+Inserting Athlete record (58, "XRHSTOS", "GAREFHS")
+OK!
+Inserting Athlete record (43, "BIRGINIA", "KRABARIVTH")
+OK!
+Inserting Athlete record (326, "EIRHNH", "TERZOGLOY")
+OK!
+Inserting Athlete record (224, "LAGOYMTZH", "KVNSTANTINA")
+OK!
+Inserting Athlete record (22, "BARBARA", "MAGNHSALH")
+OK!
+Inserting Athlete record (57, "IORDANHS", "PASXALIDHS")
+OK!
+Inserting Athlete record (291, "STEISI", "FARNGOYORU")
+OK!
+Inserting Athlete record (238, "NATALIA", "XATZHGIANNIDOY")
+OK!
+Inserting Athlete record (353, "NIKOLAOS", "POLIAS")
+OK!
+Inserting Athlete record (170, "KVNSTANTINOS", "MANETAS")
+OK!
+Inserting Athlete record (210, "NIKOLAOS", "ROYMELIVTHS")
+OK!
+Inserting Athlete record (194, "SOFIA", "IORDANIDOY")
+OK!
+Inserting Athlete record (227, "AMAL", "GOYOLKER")
+OK!
+Inserting Athlete record (51, "BASILEIOS", "PORTOSALTE")
+OK!
+Inserting Athlete record (136, "UEODVRAKOS", "OYEIN")
+OK!
+Inserting Athlete record (11, "BIKTVR", "MHTROY")
+OK!
+Inserting Athlete record (174, "SOFIA", "POYMPOYRIDOY")
+OK!
+Inserting Athlete record (302, "FANH", "XALKIA")
+OK!
+Inserting Athlete record (323, "NIKH", "JANUOY")
+OK!
+Inserting Athlete record (352, "MARIOS", "EYAGGELOY")
+OK!
+Inserting Athlete record (309, "XARIKLEIA", "MPOYNTA")
+OK!
+Inserting Athlete record (31, "PANAGIVTHS", "GKIVNHS")
+OK!
+Inserting Athlete record (331, "XRYSOPHGH", "DEBETZH")
+OK!
+Inserting Athlete record (207, "TONTOR-ZLATKOB", "MPAEF")
+OK!
+Inserting Athlete record (278, "KARANTZA", "MARIA")
+OK!
+Inserting Athlete record (225, "LAZAROY", "AGGELIKH")
+OK!
+Inserting Athlete record (13, "GEVRGIOS", "MARKOYLAS")
+OK!
+Inserting Athlete record (231, "DHMHTRA", "PANTELEIADOY")
+OK!
+Inserting Athlete record (383, "LAYRENTI", "ALEJANIDHS")
+OK!
+Inserting Athlete record (361, "EYFROSYNH", "GOYDA")
+OK!
+Inserting Athlete record (372, "ELENH", "IVANNOY")
+OK!
+Inserting Athlete record (354, "DHMHTRIOS", "SERELHS")
+OK!
+Inserting Athlete record (24, "STYLIANH", "XRISTIDOY")
+OK!
+Inserting Athlete record (378, "BARBARA", "AKRITIDOY")
+OK!
+Inserting Athlete record (295, "FLVRA", "RENTOYMH")
+OK!
+Inserting Athlete record (248, "PANAGIVTHS", "LAGOS")
+OK!
+Inserting Athlete record (335, "XRISTOFOROS", "XOIDHS")
+OK!
+Inserting Athlete record (262, "SPYRIDVN", "KLADOYXAS")
+OK!
+Inserting Athlete record (364, "EYGENIA", "KOYTSOYDH")
+OK!
+Inserting Athlete record (315, "AIKATERINH", "BOGGOLH")
+OK!
+Inserting Athlete record (233, "AUANASIA", "POYRIDOY")
+OK!
+Inserting Athlete record (371, "MIXALHS", "MOYROYTSOS")
+OK!
+Inserting Athlete record (288, "LINTZY", "TZEIMS")
+OK!
+Inserting Athlete record (243, "LOYKAS", "BYNTRA")
+OK!
+Inserting Athlete record (77, "DHMHTRHS", "PAPANIKOLAOY")
+OK!
+Inserting Athlete record (191, "IVANNA", "BLAXOY")
+OK!
+Inserting Athlete record (203, "MARIOS", "GKIOYRDAS")
+OK!
+Inserting Athlete record (329, "EYDOKIA", "TSAMOGLOY")
+OK!
+Inserting Athlete record (206, "HLIAS", "LAPPAS")
+OK!
+Inserting Athlete record (6, "BASILIKH", "KASAPH")
+OK!
+Inserting Athlete record (212, "ANTVNIOS", "TSAKIROPOYLOS")
+OK!
+Inserting Athlete record (276, "ANTALI", "TZOANNA")
+OK!
+Inserting Athlete record (117, "IVANNHS", "DRYMVNAKOS")
+OK!
+Inserting Athlete record (95, "UVMAS", "MPIMHS")
+OK!
+Inserting Athlete record (256, "GEVRGIOS", "FVTAKHS")
+OK!
+Inserting Athlete record (380, "BASILEIOS", "HLIADHS")
+OK!
+Inserting Athlete record (166, "DHMHTRA", "MAGKANOYDAKH")
+OK!
+Inserting Athlete record (319, "GEVRGIA", "TSILIGKIRH")
+OK!
+Inserting Athlete record (349, "PANAGIVTHS", "STROYMPAKOS")
+OK!
+Inserting Athlete record (241, "GEVRGIOS", "AMPARHS")
+OK!
+Inserting Athlete record (112, "SVTHRIOS", "PASTRAS")
+OK!
+Inserting Athlete record (217, "LAMPROS", "BASILOPOYLOS")
+OK!
+Inserting Athlete record (239, "ANASTASIOS", "AGRITHS")
+OK!
+Inserting Athlete record (88, "APOSTOLOS", "PAPANDREOY")
+OK!
+Inserting Athlete record (253, "MILTIADHS", "SAPANHS")
+OK!
+Inserting Athlete record (72, "DHMHTRIOS", "DIAMANTIDHS")
+OK!
+Inserting Athlete record (3, "ELENH", "DANIHLIDOY")
+OK!
+Inserting Athlete record (247, "XRHSTOS", "KARYPIDHS")
+OK!
+Inserting Athlete record (230, "ELENH-MARI", "MPENSON")
+OK!
+Inserting Athlete record (236, "KALLIOPH", "STRATAKH")
+OK!
+Inserting Athlete record (245, "KLEOPAS", "GIANNOY")
+OK!
+Inserting Athlete record (85, "ALEJANDROS", "DHMHTRIOY")
+OK!
+Inserting Athlete record (75, "DHMOSUENHS", "NTIKOYDHS")
+OK!
+Inserting Athlete record (10, "LEVNIDAS", "SAMPANHS")
+OK!
+Inserting Athlete record (82, "NIKOLAOS", "XATZHBRETTAS")
+OK!
+Inserting Athlete record (19, "DHMOSUENHS", "TAMPAKOS")
+OK!
+Inserting Athlete record (263, "MARINA", "KARAFLOY")
+OK!
+Inserting Athlete record (163, "AUANASIOS", "MIXALOPOYLOS")
+OK!
+Inserting Athlete record (53, "EYAGGELOS", "XEIMVNAS")
+OK!
+Inserting Athlete record (165, "MARIA", "RENTOYMH")
+OK!
+Inserting Athlete record (282, "TZESIKA", "MPASOR")
+OK!
+Inserting Athlete record (96, "NIKOLAOS", "SIRANIDHS")
+OK!
+Inserting Athlete record (249, "EYAGGELOS", "MORAS")
+OK!
+Inserting Athlete record (265, "MARIA", "FAKA")
+OK!
+Inserting Athlete record (62, "DHMHTRA", "KALENTZOY")
+OK!
+Inserting Athlete record (44, "AUHNA", "FRAI")
+OK!
+Inserting Athlete record (213, "UEODVROS", "XATZHANTVNIOY")
+OK!
+Inserting Athlete record (120, "SPYRIDVN", "GIANNIVTHS")
+OK!
+Inserting Athlete record (226, "LOSENO", "MARIA")
+OK!
+Inserting Athlete record (301, "XRYSOYLA", "GKOYNTENOYDH")
+OK!
+Inserting Athlete record (32, "KALINIKOS", "KREANGKA")
+OK!
+Inserting Athlete record (228, "EYTYXIA", "MIXAHLIDOY")
+OK!
+Inserting Athlete record (321, "GEVRGIA", "AMPATZIDOY")
+OK!
+Inserting Athlete record (94, "SVTHRIOS", "TRAKAS")
+OK!
+Inserting Athlete record (178, "AMIRAN", "KARNTANOB")
+OK!
+Inserting Athlete record (131, "KATALIN-MPEAT", "PARTITS")
+OK!
+Inserting Athlete record (306, "PARASKEYH", "PATOYLIDOY")
+OK!
+Inserting Athlete record (320, "ARGYRV", "STRATAKH")
+OK!
+Inserting Athlete record (324, "STYLIANH", "PILATOY")
+OK!
+Inserting Athlete record (157, "SVTHROPOYLOS", "PANAGIVTHS")
+OK!
+Inserting Athlete record (198, "BASILIKH", "PAPAZOGLOY")
+OK!
+Inserting Athlete record (199, "ZANNA", "PRONIADOY")
+OK!
+Inserting Athlete record (124, "APOSTOLOS", "ANTVNOPOYLOS")
+OK!
+Inserting Athlete record (151, "ANDREAS-TZEHMS", "MPRAK")
+OK!
+Inserting Athlete record (303, "MARINA", "BASARMIDOY")
+OK!
+Inserting Athlete record (67, "POLYMNIA", "SAREGKOY")
+OK!
+Inserting Athlete record (89, "EYTYXIA", "PAPPA-PAPABASILOPOYLOY")
+OK!
+Inserting Athlete record (357, "ALEJANDROS", "PAPADHMHTRIOY")
+OK!
+Inserting Athlete record (294, "AIKATERINH", "UANOY")
+OK!
+Inserting Athlete record (113, "XRHSTOS", "PAPADOPOYLOS")
+OK!
+Inserting Athlete record (2, "XRISTINA", "ZAXARIADOY")
+OK!
+Inserting Athlete record (279, "KOYTOYGKOY", "XRISTINA")
+OK!
+Inserting Athlete record (336, "DHMHTRIOS", "PIETRHS")
+OK!
+Inserting Athlete record (107, "EYAGGELIA", "TSAGKA")
+OK!
+Inserting Athlete record (281, "ELENH", "AIKATERINH")
+OK!
+Inserting Athlete record (337, "ELEYUERIOS", "UANOPOYLOS")
+OK!
+Inserting Athlete record (261, "HLIAS", "PAYLIDHS")
+OK!
+Inserting Athlete record (108, "MARUA", "MATSA")
+OK!
+Inserting Athlete record (149, "MPOYRAS", "KLEHTON")
+OK!
+Inserting Athlete record (145, "GKAS", "PHTER")
+OK!
+Inserting Athlete record (42, "AIMILIA", "TSOYLFA")
+OK!
+Inserting Athlete record (74, "MIXAHL", "KAKIOYZHS")
+OK!
+Inserting Athlete record (47, "EYTYXIA", "MANTZARAKH")
+OK!
+Inserting Athlete record (381, "REBAZI", "ZINTIRIDHS")
+OK!
+Inserting Athlete record (289, "FARNGOYORU", "LVREN")
+OK!
+Inserting Athlete record (314, "AGGELIKH", "TSIOLAKOYDH")
+OK!
+Inserting Athlete record (316, "ANASTASIA", "KELESIDOY")
+OK!
+Inserting Athlete record (92, "SVTHRIA", "KOYTSOPETROY")
+OK!
+Inserting Athlete record (143, "KREMMYDAS", "MIXAHL")
+OK!
+Inserting Athlete record (109, "NERY-MANTEY", "NIANGKOYARA")
+OK!
+Inserting Athlete record (368, "ARETH", "AUANASOPOYLOY")
+OK!
+Inserting Athlete record (41, "SOFIA", "MPEKATVROY")
+OK!
+Inserting Athlete record (45, "AIKATERINH", "GIAKOYMIDOY")
+OK!
+Inserting Athlete record (8, "ANASTASIA", "TSAKIRH")
+OK!
+Inserting Athlete record (204, "BASILEIOS", "KOYRNETAS")
+OK!
+Inserting Athlete record (184, "JENOFVN", "KOYTSIOYMPAS")
+OK!
+Inserting Athlete record (64, "ANASTASIA", "KVSTAKH")
+OK!
+Inserting Athlete record (33, "AGLAIA", "DEMIROPOYLOY")
+OK!
+Inserting Athlete record (152, "ERIK-NTANIEL", "PAPALYMPERHS")
+OK!
+Inserting Athlete record (342, "PERIKLHS", "IAKVBAKHS")
+OK!
+Inserting Athlete record (274, "TZHNNY", "GEVRGANTA")
+OK!
+Inserting Athlete record (373, "MARIA", "KARAGIANNOPOYLOY")
+OK!
+Inserting Athlete record (185, "ARTIOM", "KIOYREGKIAN")
+OK!
+Inserting Athlete record (264, "ALEJIA", "SMYRLH")
+OK!
+Inserting Athlete record (1, "GEVRGIOS", "PATHS")
+OK!
+Inserting Athlete record (59, "ELENH", "BASILEIOY")
+OK!
+Inserting Athlete record (160, "BASILIKH", "KARANTASIOY")
+OK!
+Inserting Athlete record (183, "ALEJANDROS", "LALIVTHS")
+OK!
+Inserting Athlete record (86, "AUHNA-UEODVRA", "ALEJOPOYLOY")
+OK!
+Inserting Athlete record (275, "GKEIL", "MARI")
+OK!
+Inserting Athlete record (148, "MPELINTZER", "ROSS")
+OK!
+Inserting Athlete record (242, "SPYRIDVN", "BALLAS")
+OK!
+Inserting Athlete record (196, "ELENH", "MEMETZH")
+OK!
+Inserting Athlete record (73, "NIKOLAOS", "ZHSHS")
+OK!
+Inserting Athlete record (270, "AGGELOS", "SPYROPOYLOS")
+OK!
+Inserting Athlete record (101, "BASILIKH", "AGGELOPOYLOY")
+OK!
+Inserting Athlete record (142, "KOYTSANTVNAKHS", "GEVRGIOS")
+OK!
+Inserting Athlete record (216, "KYRIAKH", "KVNSTANTINIDOY")
+OK!
+Inserting Athlete record (232, "ANASTASIA", "PAPADOPOYLOY")
+OK!
+Inserting Athlete record (122, "SPYRIDVN", "MPITSAKHS")
+OK!
+Inserting Athlete record (12, "PYRROS", "DHMAS")
+OK!
+Inserting Athlete record (25, "ELENH", "XRONOPOYLOY")
+OK!
+Inserting Athlete record (128, "MARIA", "SAKELLARIDOY")
+OK!
+Inserting Athlete record (277, "XLOH", "KANELAKH-KLOOYZMAN")
+OK!
+Inserting Athlete record (208, "SVTHRIOS", "PANTALEVN")
+OK!
+Inserting Athlete record (48, "ANDREAS", "KOSMATOPOYLOS")
+OK!
+Inserting Athlete record (370, "ALEJANDROS", "NIKOLAIDHS")
+OK!
+Inserting Athlete record (299, "AUANASIA", "TSOYMELEKA")
+OK!
+Inserting Athlete record (155, "SVN", "SPENSER")
+OK!
+Inserting Athlete record (246, "FANOYRIOS", "GOYNDOYLAKHS")
+OK!
+Inserting Athlete record (46, "ELENH", "DHMHTRAKOPOYLOY")
+OK!
+Inserting Athlete record (129, "BASILEIOS", "POLYMEROS")
+OK!
+Inserting Athlete record (181, "EMZARIOS", "MPETINIDHS")
+OK!
+Inserting Athlete record (23, "STERGIANH", "PANTAZH")
+OK!
+Inserting Athlete record (153, "XRISTOFOROS", "ROMPINSON")
+OK!
+Inserting Athlete record (63, "SOFIA", "KLIGKOPOYLOY")
+OK!
+Inserting Athlete record (71, "ANDREAS", "GLYNIADAKHS")
+OK!
+Inserting Athlete record (125, "NIKOLAOS", "JYLOYRHS")
+OK!
+Inserting Athlete record (111, "ARISTEIDHS", "GRHGORIADHS")
+OK!
+Inserting Athlete record (296, "KVNSTANTINA", "EFENTAKH")
+OK!
+Inserting Athlete record (91, "DIAMANTINA", "GEVRGATOY")
+OK!
+Inserting Athlete record (106, "GEVRGIA", "MANVLH")
+OK!
+Inserting Athlete record (318, "AFRODITH", "SKAFIDA")
+OK!
+Inserting Athlete record (348, "UEODVROS", "STAMATOPOYLOS")
+OK!
+Inserting Athlete record (84, "XRHSTOS", "TSAKMAKHS")
+OK!
+Inserting Athlete record (325, "KALLIOPH", "OYZOYNH")
+OK!
+Inserting Athlete record (135, "KLINTON", "ZABARAS")
+OK!
+Inserting Athlete record (139, "KABOYRGIARHS", "KORY-ANTVNIOS")
+OK!
+Inserting Athlete record (60, "AIKATERINH", "DELH")
+OK!
+Inserting Athlete record (78, "BASILEIOS", "SPANOYLHS")
+OK!
+Inserting Athlete record (5, "KVNSTANTINOS", "OIKONOMIDHS")
+OK!
+Inserting Athlete record (37, "XANNA", "ROMPERSON-MYTILHNAIOY")
+OK!
+Inserting Athlete record (290, "LYN", "TZEIMI")
+OK!
+Inserting Athlete record (127, "XRYSH", "MPISKITZH")
+OK!
+Inserting Athlete record (81, "XRHSTOS", "XARISHS")
+OK!
+Inserting Athlete record (119, "ANTVNIOS", "GKIOYLMPAS")
+OK!
+Inserting Athlete record (201, "GEVRGIA", "TZANAKAKH")
+OK!
+Inserting Athlete record (258, "SPYRIDVN", "IVANNIDHS")
+OK!
+Inserting Athlete record (202, "ELEYUERIA", "XATZHNIKOY")
+OK!
+Inserting Athlete record (285, "IVANNA", "MPOYZIOY")
+OK!
+Inserting Athlete record (133, "TZEIMS-XRISTODOYLOS", "DHMHTRELHS")
+OK!
+Inserting Athlete record (147, "MELETI", "MELEXES")
+OK!
+Inserting Athlete record (360, "ELENH", "GEVRGIOY")
+OK!
+Inserting Athlete record (9, "XRISTINA", "IVANNIDH")
+OK!
+Inserting Athlete record (0, "UEODVROS", "BELKOS")
+OK!
+Inserting Athlete record (358, "XRHSTOS", "MELETOGLOY")
+OK!
+Inserting Athlete record (367, "MARIA", "XRISTODOYLOY")
+OK!
+Inserting Athlete record (141, "KOTTARAS", "ROMPERT-REIMONT")
+OK!
+Inserting Athlete record (146, "NIKOLAOS", "MARKAKHS")
+OK!
+Inserting Athlete record (235, "BASILIKH", "SOYPIADOY")
+OK!
+Inserting Athlete record (376, "ELENH", "TAMPASH")
+OK!
+Inserting Athlete record (159, "BASILIKH", "ARBANITH")
+OK!
+Inserting Athlete record (287, "BANESSA", "TZARNESKI")
+OK!
+Inserting Athlete record (356, "DHMHTRIOS", "FILINDRAS")
+OK!
+Inserting Athlete record (308, "GEVRGIA", "KOYMNAKH")
+OK!
+Inserting Athlete record (343, "DHMHTRIOS", "GRABALOS")
+OK!
+Inserting Athlete record (366, "ELEYUERIA", "FTOYLH")
+OK!
+Inserting Athlete record (347, "SPYRIDVN", "KASTANHS")
+OK!
+Inserting Athlete record (54, "NIKOLAOS", "KAKLAMANAKHS")
+OK!
+Inserting Athlete record (237, "AGGELIKH", "TEFANH")
+OK!
+Inserting Athlete record (130, "NIKOLAOS", "SKIAUITHS")
+OK!
+Inserting Athlete record (16, "MARIA", "APOSTOLIDH")
+OK!
+Inserting Athlete record (182, "LAZAROS", "LOIZIDHS")
+OK!
+Inserting Athlete record (305, "GEVRGIA", "KOKLVNH")
+OK!
+Inserting Athlete record (98, "AIKATERINH", "SARAKATSANH")
+OK!
+Inserting Athlete record (40, "ANTVNHS", "PETRHS")
+OK!
+Inserting Athlete record (115, "ANDREAS", "ZHSIMOS")
+OK!
+Inserting Athlete record (252, "DHMHTRIOS", "SALPIGGIDHS")
+OK!
+Inserting Athlete record (15, "NIKOLAOS", "KOYRTIDHS")
+OK!
+Inserting Athlete record (118, "RVMANOS-IASVN", "ALYFANTHS")
+OK!
+Inserting Athlete record (351, "SABBAS", "PANABOGLOY")
+OK!
+Inserting Athlete record (161, "EYUALIA", "KOYTROYMANIDOY")
+OK!
+Inserting Athlete record (355, "LOYHS", "TSATOYMAS")
+OK!
+Inserting Athlete record (121, "DHMHTRIOS", "MAGGANAS")
+OK!
+Inserting Athlete record (90, "FLVRENTIA", "SFAKIANOY")
+OK!
+Inserting Athlete record (69, "ATALANTH-MARI", "TASOYLH")
+OK!
+Inserting Athlete record (138, "UEOXARHS", "NIKOLAOS")
+OK!
+Inserting Athlete record (330, "OLGA", "BASDEKH")
+OK!
+Inserting Athlete record (17, "STEFANI", "MPISMPIKOY")
+OK!
+Inserting Athlete record (284, "KRISTIN", "LINTSEI")
+OK!
+Inserting Athlete record (338, "ANASTASIOS", "GKOYSHS")
+OK!
+Inserting Athlete record (269, "KVNSTANTINOS", "SABORGIANNAKHS")
+OK!
+Inserting Athlete record (385, "DIONYSIOS", "HLIADHS")
+OK!
+Inserting Athlete record (300, "OLGA", "KAIDANTZH")
+OK!
+Inserting Athlete record (363, "APOSTOLIA", "IVANNOY")
+OK!
+Inserting Athlete record (280, "KROMYDA", "AIKATERINH")
+OK!
+Inserting Athlete record (65, "EYANUIA", "MALTSH")
+OK!
+Inserting Athlete record (244, "ARISTEIDHS", "GALANOPOYLOS")
+OK!
+Inserting Athlete record (297, "XRISTINA", "KOKOTOY")
+OK!
+Inserting Athlete record (340, "PANAGIVTHS", "SARRHS")
+OK!
+Inserting Athlete record (222, "TANYA", "KALYBA")
+OK!
+Inserting Athlete record (312, "BOISABA", "LIKA")
+OK!
+Inserting Athlete record (36, "EMMANOYELA", "AUANASIADH")
+OK!
+Inserting Athlete record (137, "UEODVROY", "TZARENT-GEVRGIOS")
+OK!
+Inserting Athlete record (171, "MARIOS", "MPASMATZIAN")
+OK!
+Inserting Athlete record (80, "ANTVNIOS", "FVTSHS")
+OK!
+Inserting Athlete record (374, "MARIA", "TSELARIDOY")
+OK!
+Inserting Athlete record (134, "DHMHTRIOS", "DOYROS")
+OK!
+Inserting Athlete record (382, "GEVRGIOS", "BAZAGKASBILI")
+OK!
+Inserting Athlete record (186, "XRHSTOS", "GKIKAS")
+OK!
+Inserting Athlete record (76, "UEODVROS", "PAPALOYKAS")
+OK!
+Inserting Athlete record (168, "IVANNA", "XRHSTOY")
+OK!
+Inserting Athlete record (240, "IVANNHS", "AMANATIDHS")
+OK!
+Inserting Athlete record (211, "GEVRGIOS", "STEFANOY")
+OK!
+Inserting Athlete record (49, "KVNSTANTINOS", "TRIGKVNHS")
+OK!
+Inserting Athlete record (209, "KVNSTANTINOS", "PROYSALHS")
+OK!
+Inserting Athlete record (102, "AUHNA", "TZABELLA")
+OK!
+Inserting Athlete record (154, "BASILEIOS", "SPANOS")
+OK!
+Inserting Athlete record (192, "MARIA", "GKARAGKOYNH")
+OK!
+Inserting Athlete record (175, "STAYROYLA", "ZYGOYRH")
+OK!
+Inserting Athlete record (272, "GEVRGIOS", "SALABANTAKHS")
+OK!
+Inserting Athlete record (4, "BASILEIOS", "MAZARAKHS")
+OK!
+Inserting Athlete record (362, "XRISTINA", "UALASSINIDOY")
+OK!
+Inserting Athlete record (103, "EIRHNH", "KVSTA")
+OK!
+Inserting Athlete record (259, "UEODVROS", "KOTAKOS")
+OK!
+Inserting Athlete record (52, "AIMILIOS", "PAPAUANASIOY")
+OK!
+Inserting Athlete record (292, "FARNGOYORU", "LH")
+OK!
+Inserting Athlete record (100, "ZVH", "DHMOSXAKH")
+OK!
+Inserting Athlete record (359, "AGLAIA", "ANASTASIOY")
+OK!
+Inserting Athlete record (286, "STEFANI", "SKIGKAS")
+OK!
+Inserting Athlete record (250, "KVNSTANTINOS", "NEMPEGLERAS")
+OK!
+Inserting Athlete record (114, "GEVRGIOS", "DIAMANTIDHS")
+OK!
+Inserting Athlete record (61, "TATIANA", "KABBADIA")
+OK!
+Inserting Athlete record (132, "BASILEIOS", "FLVROS")
+OK!
+Inserting Athlete record (27, "UEODVRA", "PALLIDOY")
+OK!
+Inserting Athlete record (327, "ALEJANDRA", "PAPAGEVRGIOY")
+OK!
+Inserting Athlete record (197, "ROYJANTRA-KONTROYTSA", "NTOYMITRESKOY")
+OK!
+Inserting Athlete record (350, "PRODROMOS", "KORKIZOGLOY")
+OK!
+Inserting Athlete record (70, "AUHNA", "XRISTOFORAKH")
+OK!
+Inserting Athlete record (38, "DANAH", "TSATSOY")
+OK!
+Inserting Athlete record (116, "IVANNHS", "KOKKVDHS")
+OK!
+Inserting Athlete record (99, "EIRHNH", "KARASTERGIOY")
+OK!
+Inserting Athlete record (333, "NIKOLITSA", "MHTROPOYLOY")
+OK!
+Inserting Athlete record (55, "LEVNIDAS", "PELEKANAKHS")
+OK!
+Inserting Athlete record (26, "ELENH", "ANDRIOLA")
+OK!
+Inserting Athlete record (14, "AKAKIOS", "KAKIASBILHS")
+OK!
+Inserting Athlete record (172, "TZEHSON-MAIKL", "NTOYRAKOS")
+OK!
+Inserting Athlete record (169, "GEVRGIOS", "AMPALOB")
+OK!
+Inserting Athlete record (328, "STYLIANH", "PAPADOPOYLOY")
+OK!
+Inserting Athlete record (251, "DHMHTRIOS", "PAPADOPOYLOS")
+OK!
+Inserting Athlete record (28, "MIXAHL", "PELIBANIDHS")
+OK!
+Inserting Athlete record (307, "EYFROSYNH", "PATSOY")
+OK!
+Inserting Athlete record (30, "MARIA", "MOIROY")
+OK!
+Inserting Athlete record (268, "GEVRGIOS", "PETSANHS")
+OK!
+Inserting Athlete record (344, "GEVRGIOS", "NTOYPHS")
+OK!
+Inserting Athlete record (219, "GEVRGIOS", "XEIMVNETOS")
+OK!
+Inserting Athlete record (20, "HLEKTRA-ELLH", "EYUYMIOY")
+OK!
+Inserting Athlete record (66, "MARIA", "SAMOROYKOBA")
+OK!
+Inserting Athlete record (164, "PAYLOS", "MPELIGRATHS")
+OK!
+Inserting Athlete record (189, "DHMHTRIOS", "ABRAMHS")
+OK!
+Inserting Athlete record (167, "NIKH-KATERINA", "SIDHROPOYLOY")
+OK!
+Inserting Athlete record (384, "HLIAS", "HLIADHS")
+OK!
+Inserting Athlete record (188, "ALEJIOS", "KOLITSOPOYLOS")
+OK!
+Inserting Athlete record (140, "KINGKSMPOYRI", "DHMHTRIOS")
+OK!
+Inserting Athlete record (257, "MARIOS", "KAPERVNHS")
+OK!
+Inserting Athlete record (369, "ELISABET", "MYSTAKIDOY")
+OK!
+Inserting Athlete record (205, "ANTREI", "KRABARIK")
+OK!
+Inserting Athlete record (345, "GEVRGIOS", "OIKONOMIDHS")
+OK!
+Inserting Athlete record (126, "APOSTOLOS", "TSAGKARAKHS")
+OK!
+Inserting Event record (5, "GYMNASTIKH TRAMPOLINO")
+OK!
+Inserting Event record (28, "STIBOS")
+OK!
+Inserting Event record (16, "MPEIZMPVL")
+OK!
+Inserting Event record (12, "KATADYSEIS")
+OK!
+Inserting Event record (27, "SOFTMPVL")
+OK!
+Inserting Event record (31, "TZOYNTO")
+OK!
+Inserting Event record (20, "PALH ELLHNORVMAIKH")
+OK!
+Inserting Event record (11, "KANOE-KAGIAK TAXYTHTA")
+OK!
+Inserting Event record (6, "EPITRAPEZIA ANTISFAIRISH")
+OK!
+Inserting Event record (13, "KOLYMBHSH")
+OK!
+Inserting Event record (2, "ARSH BARVN")
+OK!
+Inserting Event record (29, "SYGXRONISMENH KOLYMBHSH")
+OK!
+Inserting Event record (9, "KALAUOSFAIRISH")
+OK!
+Inserting Event record (1, "ANTISFAIRISH")
+OK!
+Inserting Event record (10, "KANOE-KAGIAK SLALOM")
+OK!
+Inserting Event record (22, "PODHLASIA OREINH")
+OK!
+Inserting Event record (30, "TAEKBONTO")
+OK!
+Inserting Event record (17, "MPITS BOLLEY")
+OK!
+Inserting Event record (0, "ANTIPTERISH")
+OK!
+Inserting Event record (7, "IPPASIA")
+OK!
+Inserting Event record (15, "MONTERNO PENTAULO")
+OK!
+Inserting Event record (3, "GYMNASTIKH ENORGANH")
+OK!
+Inserting Event record (8, "ISTIOPLOIA")
+OK!
+Inserting Event record (19, "PALH ELEYUERA")
+OK!
+Inserting Event record (14, "KVPHLASIA")
+OK!
+Inserting Event record (23, "PODHLASIA PISTAS")
+OK!
+Inserting Event record (18, "JIFASKIA")
+OK!
+Inserting Event record (26, "SKOPOBOLH")
+OK!
+Inserting Event record (4, "GYMNASTIKH")
+OK!
+Inserting Event record (24, "PODOSFAIRO")
+OK!
+Inserting Event record (25, "PYGMAXIA")
+OK!
+Inserting Event record (21, "PETOSFAIRISH")
+OK!
+Inserting Participation record (1, 0, "05/12/2005")
+OK!
+Inserting Participation record (84, 10, "14/01/1988")
+OK!
+Inserting Participation record (118, 13, "08/09/1987")
+OK!
+Inserting Participation record (216, 23, "05/06/2002")
+OK!
+Inserting Participation record (246, 24, "27/12/1998")
+OK!
+Inserting Participation record (4, 1, "17/01/1987")
+OK!
+Inserting Participation record (173, 19, "20/04/1987")
+OK!
+Inserting Participation record (16, 3, "18/08/1991")
+OK!
+Inserting Participation record (150, 16, "01/05/1986")
+OK!
+Inserting Participation record (317, 28, "03/07/1988")
+OK!
+Inserting Participation record (84, 10, "12/02/1993")
+OK!
+Inserting Participation record (235, 24, "16/12/1998")
+OK!
+Inserting Participation record (371, 30, "14/08/1987")
+OK!
+Inserting Participation record (53, 8, "05/01/2002")
+OK!
+Inserting Participation record (62, 9, "19/08/1998")
+OK!
+Inserting Participation record (90, 12, "17/08/2004")
+OK!
+Inserting Participation record (96, 12, "11/01/1999")
+OK!
+Inserting Participation record (207, 21, "28/06/2002")
+OK!
+Inserting Participation record (159, 17, "17/05/1986")
+OK!
+Inserting Participation record (335, 28, "13/10/1988")
+OK!
+Inserting Participation record (385, 31, "15/04/1995")
+OK!
+Inserting Participation record (220, 24, "22/02/1990")
+OK!
+Inserting Participation record (235, 24, "13/11/1989")
+OK!
+Inserting Participation record (357, 28, "10/07/1999")
+OK!
+Inserting Participation record (348, 28, "03/02/1996")
+OK!
+Inserting Participation record (194, 21, "17/10/2000")
+OK!
+Inserting Participation record (207, 21, "28/12/1992")
+OK!
+Inserting Participation record (230, 24, "16/09/2004")
+OK!
+Inserting Participation record (95, 12, "21/05/1996")
+OK!
+Inserting Participation record (149, 16, "23/03/1993")
+OK!
+Inserting Participation record (67, 9, "25/11/2004")
+OK!
+Inserting Participation record (211, 21, "01/09/1990")
+OK!
+Inserting Participation record (266, 26, "21/04/1992")
+OK!
+Inserting Participation record (314, 28, "14/03/1994")
+OK!
+Inserting Participation record (113, 13, "02/12/2004")
+OK!
+Inserting Participation record (374, 31, "01/04/1989")
+OK!
+Inserting Participation record (239, 24, "27/10/1995")
+OK!
+Inserting Participation record (61, 9, "23/04/1992")
+OK!
+Inserting Participation record (66, 9, "13/02/1994")
+OK!
+Inserting Participation record (194, 21, "27/02/1994")
+OK!
+Inserting Participation record (243, 24, "06/10/2004")
+OK!
+Inserting Participation record (353, 28, "21/05/2001")
+OK!
+Inserting Participation record (266, 26, "23/12/1996")
+OK!
+Inserting Participation record (318, 28, "27/09/1991")
+OK!
+Inserting Participation record (19, 3, "13/02/2002")
+OK!
+Inserting Participation record (90, 12, "26/05/2003")
+OK!
+Inserting Participation record (32, 6, "13/07/1986")
+OK!
+Inserting Participation record (194, 21, "18/12/2000")
+OK!
+Inserting Participation record (314, 28, "17/02/1993")
+OK!
+Inserting Participation record (335, 28, "05/10/2005")
+OK!
+Inserting Participation record (10, 2, "24/10/1999")
+OK!
+Inserting Participation record (165, 18, "03/11/1997")
+OK!
+Inserting Participation record (276, 27, "24/09/2001")
+OK!
+Inserting Participation record (79, 9, "06/04/1999")
+OK!
+Inserting Participation record (185, 20, "23/01/1998")
+OK!
+Inserting Participation record (202, 21, "03/11/1995")
+OK!
+Inserting Participation record (211, 21, "22/04/1994")
+OK!
+Inserting Participation record (96, 12, "16/01/2004")
+OK!
+Inserting Participation record (334, 28, "26/08/1991")
+OK!
+Inserting Participation record (328, 28, "27/02/2003")
+OK!
+Inserting Participation record (374, 31, "28/08/1991")
+OK!
+Inserting Participation record (132, 15, "16/11/1987")
+OK!
+Inserting Participation record (145, 16, "13/12/1995")
+OK!
+Inserting Participation record (371, 30, "13/05/1992")
+OK!
+Inserting Participation record (49, 8, "04/02/2001")
+OK!
+Inserting Participation record (67, 9, "15/10/1989")
+OK!
+Inserting Participation record (164, 17, "07/07/2001")
+OK!
+Inserting Participation record (1, 0, "12/03/1999")
+OK!
+Inserting Participation record (158, 16, "25/06/1999")
+OK!
+Inserting Participation record (22, 4, "14/11/1991")
+OK!
+Inserting Participation record (357, 28, "21/09/1988")
+OK!
+Inserting Participation record (334, 28, "24/08/1992")
+OK!
+Inserting Participation record (80, 9, "06/06/1986")
+OK!
+Inserting Participation record (357, 28, "14/02/1993")
+OK!
+Inserting Participation record (113, 13, "07/11/1989")
+OK!
+Inserting Participation record (207, 21, "13/10/1995")
+OK!
+Inserting Participation record (239, 24, "18/12/1998")
+OK!
+Inserting Participation record (67, 9, "17/08/2005")
+OK!
+Inserting Participation record (353, 28, "27/10/2005")
+OK!
+Inserting Participation record (155, 16, "09/07/1995")
+OK!
+Inserting Participation record (185, 20, "27/04/1998")
+OK!
+Inserting Participation record (331, 28, "28/12/2004")
+OK!
+Inserting Participation record (180, 19, "21/10/1998")
+OK!
+Inserting Participation record (211, 21, "27/11/1989")
+OK!
+Inserting Participation record (259, 25, "10/05/1996")
+OK!
+Inserting Participation record (104, 13, "10/10/1994")
+OK!
+Inserting Participation record (239, 24, "15/10/1989")
+OK!
+Inserting Participation record (366, 29, "21/09/1995")
+OK!
+Inserting Participation record (54, 8, "10/03/2001")
+OK!
+Inserting Participation record (309, 28, "05/07/1994")
+OK!
+Inserting Participation record (381, 31, "21/06/2001")
+OK!
+Inserting Participation record (36, 7, "13/07/2005")
+OK!
+Inserting Participation record (328, 28, "18/10/2002")
+OK!
+Inserting Participation record (173, 19, "26/01/1994")
+OK!
+Inserting Participation record (321, 28, "05/03/2005")
+OK!
+Inserting Participation record (90, 12, "18/02/2004")
+OK!
+Inserting Participation record (1, 0, "14/05/1988")
+OK!
+Inserting Participation record (155, 16, "17/02/1989")
+OK!
+Inserting Participation record (4, 1, "12/12/1994")
+OK!
+Inserting Participation record (32, 6, "01/04/1990")
+OK!
+Inserting Participation record (356, 28, "03/09/1992")
+OK!
+Inserting Participation record (51, 8, "06/05/1997")
+OK!
+Inserting Participation record (293, 27, "06/05/1994")
+OK!
+Inserting Participation record (43, 8, "24/09/1989")
+OK!
+Inserting Participation record (200, 21, "09/03/2002")
+OK!
+Inserting Participation record (308, 28, "25/06/1991")
+OK!
+Inserting Participation record (28, 5, "16/02/2001")
+OK!
+Inserting Participation record (159, 17, "06/07/1986")
+OK!
+Inserting Participation record (225, 24, "22/06/1995")
+OK!
+Inserting Participation record (279, 27, "22/02/1986")
+OK!
+Inserting Participation record (43, 8, "09/08/1988")
+OK!
+Inserting Participation record (79, 9, "11/07/2003")
+OK!
+Inserting Participation record (210, 21, "07/08/1988")
+OK!
+Inserting Participation record (243, 24, "17/02/1996")
+OK!
+Inserting Participation record (207, 21, "24/05/1992")
+OK!
+Inserting Participation record (159, 17, "07/02/1993")
+OK!
+Inserting Participation record (371, 30, "04/11/2004")
+OK!
+Inserting Participation record (261, 25, "22/05/2002")
+OK!
+Inserting Participation record (293, 27, "19/02/1997")
+OK!
+Inserting Participation record (276, 27, "19/09/2001")
+OK!
+Inserting Participation record (9, 2, "14/02/2003")
+OK!
+Inserting Participation record (322, 28, "06/11/1995")
+OK!
+Inserting Participation record (54, 8, "07/07/2004")
+OK!
+Inserting Participation record (361, 29, "21/02/1994")
+OK!
+Inserting Participation record (381, 31, "13/08/2002")
+OK!
+Inserting Participation record (32, 6, "24/08/1987")
+OK!
+Inserting Participation record (235, 24, "14/11/1990")
+OK!
+Inserting Participation record (378, 31, "03/08/1989")
+OK!
+Inserting Participation record (185, 20, "08/06/1998")
+OK!
+Inserting Participation record (292, 27, "17/06/1999")
+OK!
+Inserting Participation record (32, 6, "18/02/1994")
+OK!
+Inserting Participation record (61, 9, "27/06/2001")
+OK!
+Inserting Participation record (292, 27, "09/03/2003")
+OK!
+Inserting Participation record (61, 9, "10/09/1995")
+OK!
+Inserting Participation record (37, 7, "28/04/2001")
+OK!
+Inserting Participation record (216, 23, "15/12/1994")
+OK!
+Inserting Participation record (207, 21, "27/04/1990")
+OK!
+Inserting Participation record (66, 9, "02/05/2002")
+OK!
+Inserting Participation record (164, 17, "14/03/2002")
+OK!
+Inserting Participation record (254, 24, "23/07/1997")
+OK!
+Inserting Participation record (266, 26, "16/04/2005")
+OK!
+Inserting Participation record (272, 26, "06/09/1989")
+OK!
+Inserting Participation record (378, 31, "13/11/1999")
+OK!
+Inserting Participation record (53, 8, "16/10/2003")
+OK!
+Inserting Participation record (163, 17, "27/03/1991")
+OK!
+Inserting Participation record (132, 15, "04/10/1994")
+OK!
+Inserting Participation record (15, 2, "16/08/2004")
+OK!
+Inserting Participation record (239, 24, "22/02/2000")
+OK!
+Inserting Participation record (108, 13, "22/10/2005")
+OK!
+Inserting Participation record (21, 4, "18/12/1998")
+OK!
+Inserting Participation record (219, 23, "13/06/1987")
+OK!
+Inserting Participation record (108, 13, "16/12/1990")
+OK!
+Inserting Participation record (352, 28, "14/09/1999")
+OK!
+Inserting Participation record (141, 16, "24/03/2004")
+OK!
+Inserting Participation record (303, 28, "20/05/2005")
+OK!
+Inserting Participation record (113, 13, "21/07/1994")
+OK!
+Inserting Participation record (185, 20, "22/11/1998")
+OK!
+Inserting Participation record (195, 21, "07/06/1986")
+OK!
+Inserting Participation record (337, 28, "17/11/1988")
+OK!
+Inserting Participation record (358, 28, "12/12/2002")
+OK!
+Inserting Participation record (177, 19, "25/01/1994")
+OK!
+Inserting Participation record (216, 23, "04/07/2003")
+OK!
+Inserting Participation record (103, 13, "15/06/1992")
+OK!
+Inserting Participation record (37, 7, "18/03/2004")
+OK!
+Inserting Participation record (378, 31, "23/02/1993")
+OK!
+Inserting Participation record (4, 1, "13/02/2000")
+OK!
+Inserting Participation record (201, 21, "18/01/1993")
+OK!
+Inserting Participation record (243, 24, "08/08/1993")
+OK!
+Inserting Participation record (181, 19, "13/11/1997")
+OK!
+Inserting Participation record (246, 24, "21/12/2004")
+OK!
+Inserting Participation record (254, 24, "05/09/2002")
+OK!
+Inserting Participation record (10, 2, "02/06/2002")
+OK!
+Inserting Participation record (169, 18, "22/05/1989")
+OK!
+Inserting Participation record (16, 3, "12/09/2003")
+OK!
+Inserting Participation record (104, 13, "15/10/1991")
+OK!
+Inserting Participation record (378, 31, "21/05/1987")
+OK!
+Inserting Participation record (348, 28, "19/01/2004")
+OK!
+Inserting Participation record (28, 5, "02/11/1990")
+OK!
+Inserting Participation record (191, 21, "19/05/2000")
+OK!
+Inserting Participation record (113, 13, "20/07/1993")
+OK!
+Inserting Participation record (11, 2, "15/07/1988")
+OK!
+Inserting Participation record (37, 7, "19/03/1992")
+OK!
+Inserting Participation record (113, 13, "16/06/2000")
+OK!
+Inserting Participation record (303, 28, "25/05/2001")
+OK!
+Inserting Participation record (76, 9, "04/07/1989")
+OK!
+Inserting Participation record (72, 9, "20/03/1987")
+OK!
+Inserting Participation record (202, 21, "02/04/1986")
+OK!
+Inserting Participation record (280, 27, "05/09/1990")
+OK!
+Inserting Participation record (353, 28, "26/05/1997")
+OK!
+Inserting Participation record (191, 21, "16/02/1991")
+OK!
+Inserting Participation record (322, 28, "03/11/1995")
+OK!
+Inserting Participation record (328, 28, "17/05/2000")
+OK!
+Inserting Participation record (353, 28, "14/04/1995")
+OK!
+Inserting Participation record (28, 5, "04/03/1992")
+OK!
+Inserting Participation record (133, 16, "13/07/2002")
+OK!
+Inserting Participation record (191, 21, "06/04/1988")
+OK!
+Inserting Participation record (97, 13, "06/01/1988")
+OK!
+Inserting Participation record (16, 3, "05/05/1988")
+OK!
+Inserting Participation record (49, 8, "15/08/2003")
+OK!
+Inserting Participation record (127, 14, "17/09/1989")
+OK!
+Inserting Participation record (226, 24, "15/11/1989")
+OK!
+Inserting Participation record (76, 9, "26/03/1989")
+OK!
+Inserting Participation record (270, 26, "27/01/1998")
+OK!
+Inserting Participation record (318, 28, "28/11/2003")
+OK!
+Inserting Participation record (44, 8, "24/11/2003")
+OK!
+Inserting Participation record (1, 0, "12/07/1989")
+OK!
+Inserting Participation record (76, 9, "02/02/1999")
+OK!
+Inserting Participation record (162, 17, "24/04/1995")
+OK!
+Inserting Participation record (207, 21, "14/07/1993")
+OK!
+Inserting Participation record (317, 28, "16/07/1998")
+OK!
+Inserting Participation record (248, 24, "02/09/2002")
+OK!
+Inserting Participation record (84, 10, "02/05/1992")
+OK!
+Inserting Participation record (85, 10, "01/04/1999")
+OK!
+Inserting Participation record (297, 28, "25/01/1998")
+OK!
+Inserting Participation record (279, 27, "17/08/2004")
+OK!
+Inserting Participation record (76, 9, "07/07/1994")
+OK!
+Inserting Participation record (225, 24, "16/03/1994")
+OK!
+Inserting Participation record (67, 9, "09/08/1995")
+OK!
+Inserting Participation record (150, 16, "05/04/2002")
+OK!
+Inserting Participation record (155, 16, "28/07/1998")
+OK!
+Inserting Participation record (361, 29, "15/02/1988")
+OK!
+Inserting Participation record (67, 9, "19/12/2005")
+OK!
+Inserting Participation record (169, 18, "25/07/2000")
+OK!
+Inserting Participation record (67, 9, "06/08/1989")
+OK!
+Inserting Participation record (217, 23, "19/07/2001")
+OK!
+Inserting Participation record (374, 31, "03/08/1987")
+OK!
+Inserting Participation record (207, 21, "27/02/1996")
+OK!
+Inserting Participation record (293, 27, "17/08/1994")
+OK!
+Inserting Participation record (95, 12, "04/01/1999")
+OK!
+Inserting Participation record (159, 17, "18/07/1996")
+OK!
+Inserting Participation record (328, 28, "08/07/1986")
+OK!
+Inserting Participation record (231, 24, "11/03/2001")
+OK!
+Inserting Participation record (80, 9, "12/10/2005")
+OK!
+Inserting Participation record (231, 24, "02/08/1996")
+OK!
+Inserting Participation record (15, 2, "01/04/1986")
+OK!
+Inserting Participation record (131, 15, "06/08/2000")
+OK!
+Inserting Participation record (235, 24, "26/07/1988")
+OK!
+Inserting Participation record (75, 9, "28/08/1990")
+OK!
+Inserting Participation record (185, 20, "13/07/1989")
+OK!
+Inserting Participation record (276, 27, "11/10/1999")
+OK!
+Inserting Participation record (253, 24, "26/05/1995")
+OK!
+Inserting Participation record (344, 28, "08/11/1991")
+OK!
+Inserting Participation record (76, 9, "17/03/2004")
+OK!
+Inserting Participation record (159, 17, "09/10/1993")
+OK!
+Inserting Participation record (165, 18, "06/11/2004")
+OK!
+Inserting Participation record (385, 31, "09/03/2002")
+OK!
+Inserting Participation record (181, 19, "11/09/2001")
+OK!
+Inserting Participation record (261, 25, "24/11/2003")
+OK!
+Inserting Participation record (293, 27, "07/01/1988")
+OK!
+Inserting Participation record (67, 9, "02/07/1996")
+OK!
+Inserting Participation record (22, 4, "14/11/2003")
+OK!
+Inserting Participation record (211, 21, "14/10/1988")
+OK!
+Inserting Participation record (226, 24, "20/09/2003")
+OK!
+Inserting Participation record (247, 24, "07/03/2003")
+OK!
+Inserting Participation record (178, 19, "18/12/1995")
+OK!
+Inserting Participation record (95, 12, "07/04/1995")
+OK!
+Inserting Participation record (132, 15, "12/09/1988")
+OK!
+Inserting Participation record (220, 24, "09/08/1996")
+OK!
+Inserting Participation record (15, 2, "25/10/1988")
+OK!
+Inserting Participation record (276, 27, "27/01/1994")
+OK!
+Inserting Participation record (113, 13, "25/07/2003")
+OK!
+Inserting Participation record (145, 16, "14/06/1996")
+OK!
+Inserting Participation record (180, 19, "12/04/2004")
+OK!
+Inserting Participation record (266, 26, "07/11/1991")
+OK!
+Inserting Participation record (236, 24, "21/06/2000")
+OK!
+Inserting Participation record (243, 24, "12/10/1996")
+OK!
+Inserting Participation record (367, 29, "11/08/1996")
+OK!
+Inserting Participation record (298, 28, "05/10/1993")
+OK!
+Inserting Participation record (51, 8, "28/07/1998")
+OK!
+Inserting Participation record (181, 19, "09/11/1989")
+OK!
+Inserting Participation record (53, 8, "05/04/1997")
+OK!
+Inserting Participation record (230, 24, "23/04/2003")
+OK!
+Inserting Participation record (118, 13, "10/11/1995")
+OK!
+Inserting Participation record (195, 21, "24/05/1995")
+OK!
+Inserting Participation record (145, 16, "28/10/2004")
+OK!
+Inserting Participation record (37, 7, "03/02/1994")
+OK!
+Inserting Participation record (211, 21, "12/02/1991")
+OK!
+Inserting Participation record (243, 24, "09/07/1997")
+OK!
+Inserting Participation record (338, 28, "19/08/1997")
+OK!
+Inserting Participation record (331, 28, "06/04/1999")
+OK!
+Inserting Participation record (265, 26, "07/02/2004")
+OK!
+Inserting Participation record (322, 28, "05/08/1989")
+OK!
+Inserting Participation record (4, 1, "26/08/2004")
+OK!
+Inserting Participation record (211, 21, "04/10/1991")
+OK!
+Inserting Participation record (247, 24, "03/02/1992")
+OK!
+Inserting Participation record (4, 1, "26/01/1989")
+OK!
+Inserting Participation record (216, 23, "06/04/1992")
+OK!
+Inserting Participation record (280, 27, "18/10/1992")
+OK!
+Inserting Participation record (344, 28, "05/10/1990")
+OK!
+Inserting Participation record (169, 18, "23/11/1989")
+OK!
+Inserting Participation record (303, 28, "17/07/1992")
+OK!
+Inserting Participation record (142, 16, "08/08/1996")
+OK!
+Inserting Participation record (61, 9, "07/02/1994")
+OK!
+Inserting Participation record (61, 9, "26/03/2005")
+OK!
+Inserting Participation record (374, 31, "15/02/1986")
+OK!
+Inserting Participation record (159, 17, "21/03/1998")
+OK!
+Inserting Participation record (271, 26, "18/10/1991")
+OK!
+Inserting Participation record (352, 28, "02/07/2002")
+OK!
+Inserting Participation record (194, 21, "12/08/1992")
+OK!
+Inserting Participation record (15, 2, "27/12/2002")
+OK!
+Inserting Participation record (348, 28, "05/12/2003")
+OK!
+Inserting Participation record (8, 2, "19/10/2005")
+OK!
+Inserting Participation record (103, 13, "07/11/1999")
+OK!
+Inserting Participation record (216, 23, "15/09/2004")
+OK!
+Inserting Participation record (239, 24, "04/06/1990")
+OK!
+Inserting Participation record (317, 28, "01/05/1987")
+OK!
+Inserting Participation record (1, 0, "16/12/1992")
+OK!
+Inserting Participation record (43, 8, "13/07/2003")
+OK!
+Inserting Participation record (90, 12, "19/11/1995")
+OK!
+Inserting Participation record (31, 6, "14/02/1995")
+OK!
+Inserting Participation record (287, 27, "05/11/1998")
+OK!
+Inserting Participation record (1, 0, "06/09/1987")
+OK!
+Inserting Participation record (61, 9, "15/09/2003")
+OK!
+Inserting Participation record (327, 28, "01/09/2005")
+OK!
+Inserting Participation record (61, 9, "23/01/1994")
+OK!
+Inserting Participation record (287, 27, "23/06/1996")
+OK!
+Inserting Participation record (15, 2, "23/11/2003")
+OK!
+Inserting Participation record (177, 19, "17/09/1996")
+OK!
+Inserting Participation record (338, 28, "02/01/1994")
+OK!
+Inserting Participation record (53, 8, "14/01/2000")
+OK!
+Inserting Participation record (381, 31, "22/03/1996")
+OK!
+Inserting Participation record (118, 13, "06/09/2004")
+OK!
+Inserting Participation record (185, 20, "28/06/1989")
+OK!
+Inserting Participation record (243, 24, "27/02/1991")
+OK!
+Inserting Participation record (344, 28, "14/02/2000")
+OK!
+Inserting Participation record (279, 27, "24/10/1987")
+OK!
+Inserting Participation record (374, 31, "13/11/2005")
+OK!
+Inserting Participation record (191, 21, "02/05/1994")
+OK!
+Inserting Participation record (123, 13, "23/12/2001")
+OK!
+Inserting Participation record (276, 27, "15/10/1993")
+OK!
+Inserting Participation record (202, 21, "25/12/1987")
+OK!
+Inserting Participation record (293, 27, "22/04/2005")
+OK!
+Inserting Participation record (190, 20, "08/04/1988")
+OK!
+Inserting Participation record (90, 12, "21/04/1999")
+OK!
+Inserting Participation record (22, 4, "28/12/1998")
+OK!
+Inserting Participation record (374, 31, "19/04/1990")
+OK!
+Inserting Participation record (186, 20, "10/05/1990")
+OK!
+Inserting Participation record (220, 24, "28/04/2000")
+OK!
+Inserting Participation record (334, 28, "21/08/1987")
+OK!
+Inserting Participation record (374, 31, "24/04/2000")
+OK!
+Inserting Participation record (113, 13, "24/11/1986")
+OK!
+Inserting Participation record (169, 18, "22/10/2001")
+OK!
+Inserting Participation record (219, 23, "24/04/1995")
+OK!
+Inserting Participation record (226, 24, "02/10/1991")
+OK!
+Inserting Participation record (127, 14, "14/09/1987")
+OK!
+Inserting Participation record (322, 28, "15/04/2003")
+OK!
+Inserting Participation record (84, 10, "03/03/2001")
+OK!
+Inserting Participation record (10, 2, "24/07/2000")
+OK!
+Inserting Participation record (331, 28, "17/08/1993")
+OK!
+Inserting Participation record (146, 16, "26/12/1997")
+OK!
+Inserting Participation record (5, 1, "22/11/1995")
+OK!
+Inserting Participation record (72, 9, "05/07/1990")
+OK!
+Inserting Participation record (348, 28, "10/09/1989")
+OK!
+Inserting Participation record (145, 16, "20/06/1994")
+OK!
+Inserting Participation record (348, 28, "22/09/2003")
+OK!
+Inserting Participation record (293, 27, "17/08/1986")
+OK!
+Inserting Participation record (328, 28, "10/11/1994")
+OK!
+Inserting Participation record (334, 28, "01/10/1999")
+OK!
+Inserting Participation record (53, 8, "23/12/1989")
+OK!
+Inserting Participation record (239, 24, "16/04/1987")
+OK!
+Inserting Participation record (259, 25, "07/07/1993")
+OK!
+Inserting Participation record (11, 2, "06/05/2002")
+OK!
+Inserting Participation record (16, 3, "12/10/1986")
+OK!
+Inserting Participation record (141, 16, "02/05/1989")
+OK!
+Inserting Participation record (297, 28, "23/01/1991")
+OK!
+Inserting Participation record (307, 28, "03/09/1992")
+OK!
+Inserting Participation record (159, 17, "15/07/1995")
+OK!
+Inserting Participation record (288, 27, "19/11/1994")
+OK!
+Inserting Participation record (367, 29, "07/09/1994")
+OK!
+Inserting Participation record (42, 8, "04/01/1998")
+OK!
+Inserting Participation record (254, 24, "02/07/1988")
+OK!
+Inserting Participation record (253, 24, "03/03/2003")
+OK!
+Inserting Participation record (348, 28, "24/06/1993")
+OK!
+Inserting Participation record (318, 28, "26/06/1994")
+OK!
+Inserting Participation record (181, 19, "22/04/1986")
+OK!
+Inserting Participation record (317, 28, "06/07/1999")
+OK!
+Inserting Participation record (219, 23, "17/02/1990")
+OK!
+Inserting Participation record (266, 26, "19/06/1989")
+OK!
+Inserting Participation record (374, 31, "12/08/1999")
+OK!
+Inserting Participation record (145, 16, "05/06/1988")
+OK!
+Inserting Participation record (331, 28, "06/09/1989")
+OK!
+Inserting Participation record (42, 8, "25/04/1998")
+OK!
+Inserting Participation record (53, 8, "23/01/2003")
+OK!
+Inserting Participation record (1, 0, "12/06/1994")
+OK!
+Inserting Participation record (215, 22, "14/08/1988")
+OK!
+Inserting Participation record (8, 2, "21/02/1986")
+OK!
+Inserting Participation record (260, 25, "28/12/1994")
+OK!
+Inserting Participation record (123, 13, "06/10/2005")
+OK!
+Inserting Participation record (132, 15, "11/04/2001")
+OK!
+Inserting Participation record (37, 7, "21/10/2004")
+OK!
+Inserting Participation record (155, 16, "07/11/1992")
+OK!
+Inserting Participation record (385, 31, "09/06/1993")
+OK!
+Inserting Participation record (173, 19, "07/05/2005")
+OK!
+Inserting Participation record (276, 27, "12/12/1992")
+OK!
+Inserting Participation record (207, 21, "08/06/1991")
+OK!
+Inserting Participation record (352, 28, "15/10/2005")
+OK!
+Inserting Participation record (138, 16, "27/01/2005")
+OK!
+Inserting Participation record (26, 4, "17/04/2003")
+OK!
+Inserting Participation record (309, 28, "10/03/2002")
+OK!
+Inserting Participation record (16, 3, "04/04/1997")
+OK!
+Inserting Participation record (84, 10, "12/07/1998")
+OK!
+Inserting Participation record (102, 13, "23/03/1990")
+OK!
+Inserting Participation record (276, 27, "20/11/2002")
+OK!
+Inserting Participation record (95, 12, "10/08/2005")
+OK!
+Inserting Participation record (113, 13, "05/05/1996")
+OK!
+Inserting Participation record (338, 28, "06/01/2003")
+OK!
+Inserting Participation record (1, 0, "27/09/1991")
+OK!
+Inserting Participation record (253, 24, "17/07/1990")
+OK!
+Inserting Participation record (135, 16, "08/06/2004")
+OK!
+Inserting Participation record (177, 19, "16/06/1989")
+OK!
+Inserting Participation record (90, 12, "13/05/2000")
+OK!
+Inserting Participation record (215, 22, "26/07/1986")
+OK!
+Inserting Participation record (118, 13, "07/01/1990")
+OK!
+Inserting Participation record (216, 23, "08/05/2004")
+OK!
+Inserting Participation record (309, 28, "11/10/1991")
+OK!
+Inserting Participation record (373, 31, "28/03/2004")
+OK!
+Inserting Participation record (32, 6, "28/05/1990")
+OK!
+Inserting Participation record (211, 21, "19/11/2001")
+OK!
+Inserting Participation record (252, 24, "05/07/1993")
+OK!
+Inserting Participation record (352, 28, "24/10/1998")
+OK!
+Inserting Participation record (49, 8, "28/09/2001")
+OK!
+Inserting Participation record (135, 16, "07/08/1988")
+OK!
+Inserting Participation record (118, 13, "16/01/1992")
+OK!
+Inserting Participation record (180, 19, "23/06/1993")
+OK!
+Inserting Participation record (307, 28, "13/10/1999")
+OK!
+Inserting Participation record (103, 13, "08/12/2002")
+OK!
+Inserting Participation record (220, 24, "05/08/1990")
+OK!
+Inserting Participation record (155, 16, "18/09/2005")
+OK!
+Inserting Participation record (146, 16, "25/07/1992")
+OK!
+Inserting Participation record (235, 24, "19/11/1986")
+OK!
+Inserting Participation record (292, 27, "08/10/1990")
+OK!
+Inserting Participation record (357, 28, "28/09/2001")
+OK!
+Inserting Participation record (219, 23, "13/08/1992")
+OK!
+Inserting Participation record (260, 25, "16/01/1989")
+OK!
+Inserting Participation record (76, 9, "04/08/1999")
+OK!
+Inserting Participation record (159, 17, "10/05/1995")
+OK!
+Inserting Participation record (247, 24, "14/04/1993")
+OK!
+Inserting Participation record (231, 24, "24/04/2004")
+OK!
+Inserting Participation record (80, 9, "05/12/1992")
+OK!
+Inserting Participation record (365, 29, "16/07/2004")
+OK!
+Inserting Participation record (247, 24, "09/08/2002")
+OK!
+Inserting Participation record (297, 28, "17/12/2000")
+OK!
+Inserting Participation record (338, 28, "07/10/1998")
+OK!
+Inserting Participation record (61, 9, "15/11/1994")
+OK!
+Inserting Participation record (303, 28, "24/09/2000")
+OK!
+Inserting Participation record (361, 29, "23/09/1986")
+OK!
+Inserting Participation record (328, 28, "26/05/1997")
+OK!
+Inserting Participation record (22, 4, "06/07/1997")
+OK!
+Inserting Participation record (142, 16, "16/05/1986")
+OK!
+Inserting Participation record (72, 9, "05/02/2000")
+OK!
+Inserting Participation record (201, 21, "17/04/1994")
+OK!
+Inserting Participation record (118, 13, "03/08/1996")
+OK!
+Inserting Participation record (145, 16, "07/07/1991")
+OK!
+Inserting Participation record (207, 21, "26/07/1996")
+OK!
+Inserting Participation record (32, 6, "27/10/1994")
+OK!
+Inserting Participation record (103, 13, "01/01/1999")
+OK!
+Inserting Participation record (266, 26, "16/05/1989")
+OK!
+Inserting Participation record (16, 3, "25/03/1992")
+OK!
+Inserting Participation record (168, 18, "27/04/1998")
+OK!
+Inserting Participation record (173, 19, "11/06/1986")
+OK!
+Inserting Participation record (177, 19, "24/05/2000")
+OK!
+Inserting Participation record (28, 5, "01/11/1996")
+OK!
+Inserting Participation record (53, 8, "28/02/1998")
+OK!
+Inserting Participation record (159, 17, "21/02/2005")
+OK!
+Inserting Participation record (288, 27, "23/05/1994")
+OK!
+Inserting Participation record (374, 31, "08/10/1995")
+OK!
+Inserting Participation record (1, 0, "16/07/1995")
+OK!
+Inserting Participation record (191, 21, "25/08/1991")
+OK!
+Inserting Participation record (353, 28, "16/08/2001")
+OK!
+Inserting Participation record (117, 13, "12/10/1999")
+OK!
+Inserting Participation record (242, 24, "05/12/1997")
+OK!
+Inserting Participation record (280, 27, "03/02/2002")
+OK!
+Inserting Participation record (367, 29, "21/06/1996")
+OK!
+Inserting Participation record (150, 16, "25/03/2000")
+OK!
+Inserting Participation record (168, 18, "15/06/1991")
+OK!
+Inserting Participation record (317, 28, "05/02/1994")
+OK!
+Inserting Participation record (53, 8, "10/07/1994")
+OK!
+Inserting Participation record (150, 16, "07/01/1997")
+OK!
+Inserting Participation record (348, 28, "16/11/1991")
+OK!
+Inserting Participation record (49, 8, "09/06/1990")
+OK!
+Inserting Participation record (72, 9, "10/07/1990")
+OK!
+Inserting Participation record (280, 27, "22/07/2003")
+OK!
+Inserting Participation record (331, 28, "24/04/1987")
+OK!
+Inserting Participation record (37, 7, "20/05/2003")
+OK!
+Inserting Participation record (338, 28, "26/10/1991")
+OK!
+Inserting Participation record (381, 31, "25/12/1997")
+OK!
+Inserting Participation record (303, 28, "07/10/1993")
+OK!
+Inserting Participation record (334, 28, "16/10/1986")
+OK!
+Inserting Participation record (271, 26, "09/10/1992")
+OK!
+Inserting Participation record (378, 31, "01/03/1998")
+OK!
+Inserting Participation record (127, 14, "17/03/1990")
+OK!
+Inserting Participation record (299, 28, "21/06/1999")
+OK!
+Inserting Participation record (12, 2, "18/02/2001")
+OK!
+Inserting Participation record (271, 26, "04/06/1989")
+OK!
+Inserting Participation record (220, 24, "16/11/1991")
+OK!
+Inserting Participation record (243, 24, "26/10/1996")
+OK!
+Inserting Participation record (169, 18, "05/09/1990")
+OK!
+Inserting Participation record (211, 21, "14/08/1990")
+OK!
+Inserting Participation record (231, 24, "09/12/1987")
+OK!
+Inserting Participation record (338, 28, "20/01/1990")
+OK!
+Inserting Participation record (72, 9, "20/03/2005")
+OK!
+Inserting Participation record (351, 28, "25/09/1993")
+OK!
+Inserting Participation record (141, 16, "01/05/2004")
+OK!
+Inserting Participation record (150, 16, "08/04/1992")
+OK!
+Inserting Participation record (210, 21, "26/09/1997")
+OK!
+Inserting Participation record (173, 19, "05/03/2001")
+OK!
+Inserting Participation record (195, 21, "24/08/1996")
+OK!
+Inserting Participation record (136, 16, "14/05/1991")
+OK!
+Inserting Participation record (210, 21, "24/11/1997")
+OK!
+Inserting Participation record (173, 19, "12/10/1992")
+OK!
+Inserting Participation record (127, 14, "06/04/1999")
+OK!
+Inserting Participation record (20, 4, "04/04/1988")
+OK!
+Inserting Participation record (371, 30, "18/08/1992")
+OK!
+Inserting Participation record (127, 14, "11/01/1992")
+OK!
+Inserting Participation record (290, 27, "06/04/1999")
+OK!
+Inserting Participation record (361, 29, "19/02/1989")
+OK!
+Inserting Participation record (337, 28, "12/01/1988")
+OK!
+Inserting Participation record (314, 28, "28/09/2003")
+OK!
+Inserting Participation record (1, 0, "15/04/2002")
+OK!
+Inserting Participation record (168, 18, "04/05/1996")
+OK!
+Inserting Participation record (195, 21, "16/06/1993")
+OK!
+Inserting Participation record (226, 24, "02/05/2000")
+OK!
+Inserting Participation record (327, 28, "27/02/1986")
+OK!
+Inserting Participation record (118, 13, "27/03/1999")
+OK!
+Inserting Participation record (344, 28, "01/10/1995")
+OK!
+Inserting Participation record (342, 28, "17/07/1989")
+OK!
+Inserting Participation record (181, 19, "12/02/1991")
+OK!
+Inserting Participation record (371, 30, "15/02/2000")
+OK!
+Inserting Participation record (51, 8, "20/09/2004")
+OK!
+Inserting Participation record (133, 16, "20/07/1998")
+OK!
+Inserting Participation record (37, 7, "26/06/2004")
+OK!
+Inserting Participation record (271, 26, "10/09/1991")
+OK!
+Inserting Participation record (322, 28, "10/08/1988")
+OK!
+Inserting Participation record (357, 28, "05/04/1995")
+OK!
+Inserting Participation record (275, 27, "13/05/2002")
+OK!
+Inserting Participation record (358, 28, "04/02/1994")
+OK!
+Inserting Participation record (271, 26, "11/06/1989")
+OK!
+Inserting Participation record (318, 28, "05/01/1993")
+OK!
+Inserting Participation record (158, 16, "15/01/2003")
+OK!
+Inserting Participation record (165, 18, "14/10/1986")
+OK!
+Inserting Participation record (200, 21, "10/04/1992")
+OK!
+Inserting Participation record (177, 19, "01/10/1997")
+OK!
+Inserting Participation record (226, 24, "15/11/1997")
+OK!
+Inserting Participation record (95, 12, "14/11/1993")
+OK!
+Inserting Participation record (142, 16, "06/12/2004")
+OK!
+Inserting Participation record (215, 22, "14/08/2003")
+OK!
+Inserting Participation record (243, 24, "28/05/1995")
+OK!
+Inserting Participation record (42, 8, "10/11/1992")
+OK!
+Inserting Participation record (381, 31, "01/04/1993")
+OK!
+Inserting Participation record (135, 16, "12/02/1990")
+OK!
+Inserting Participation record (385, 31, "13/08/1990")
+OK!
+Inserting Participation record (66, 9, "08/05/1991")
+OK!
+Inserting Participation record (79, 9, "07/12/2003")
+OK!
+Inserting Participation record (230, 24, "12/06/1993")
+OK!
+Inserting Participation record (206, 21, "18/01/1992")
+OK!
+Inserting Participation record (344, 28, "08/05/1999")
+OK!
+Inserting Participation record (177, 19, "12/05/1991")
+OK!
+Inserting Participation record (276, 27, "14/09/1993")
+OK!
+Inserting Participation record (338, 28, "28/04/2003")
+OK!
+Inserting Participation record (43, 8, "15/04/2002")
+OK!
+Inserting Participation record (43, 8, "01/03/1991")
+OK!
+Inserting Participation record (61, 9, "09/06/1986")
+OK!
+Inserting Participation record (276, 27, "16/02/1995")
+OK!
+Inserting Participation record (15, 2, "07/10/1993")
+OK!
+Inserting Participation record (243, 24, "14/07/1987")
+OK!
+Inserting Participation record (303, 28, "20/11/1995")
+OK!
+Inserting Participation record (54, 8, "18/06/1987")
+OK!
+Inserting Participation record (334, 28, "17/02/1994")
+OK!
+Inserting Participation record (266, 26, "10/08/1996")
+OK!
+Inserting Participation record (67, 9, "14/12/1987")
+OK!
+Inserting Participation record (79, 9, "03/10/1988")
+OK!
+Inserting Participation record (127, 14, "02/05/1999")
+OK!
+Inserting Participation record (113, 13, "22/10/1992")
+OK!
+Inserting Participation record (118, 13, "18/11/1991")
+OK!
+Inserting Participation record (338, 28, "15/03/1999")
+OK!
+Inserting Participation record (216, 23, "26/05/1988")
+OK!
+Inserting Participation record (243, 24, "05/07/1994")
+OK!
+Inserting Participation record (9, 2, "15/02/1999")
+OK!
+Inserting Participation record (123, 13, "21/10/1998")
+OK!
+Inserting Participation record (293, 27, "20/06/1993")
+OK!
+Inserting Participation record (378, 31, "27/11/2003")
+OK!
+Inserting Participation record (371, 30, "17/01/1995")
+OK!
+Inserting Participation record (38, 7, "19/07/1991")
+OK!
+Inserting Participation record (103, 13, "25/01/2000")
+OK!
+Inserting Participation record (331, 28, "22/03/2003")
+OK!
+Inserting Participation record (90, 12, "13/03/1995")
+OK!
+Inserting Participation record (276, 27, "26/09/1996")
+OK!
+Inserting Participation record (235, 24, "19/03/1986")
+OK!
+Inserting Participation record (72, 9, "04/10/2003")
+OK!
+Inserting Participation record (191, 21, "15/07/1996")
+OK!
+Inserting Participation record (367, 29, "20/11/1999")
+OK!
+Inserting Participation record (108, 13, "22/05/2002")
+OK!
+Inserting Participation record (280, 27, "16/03/2005")
+OK!
+Inserting Participation record (252, 24, "26/04/2005")
+OK!
+Inserting Participation record (32, 6, "04/07/2005")
+OK!
+Inserting Participation record (4, 1, "23/01/1994")
+OK!
+Inserting Participation record (72, 9, "08/01/2001")
+OK!
+Inserting Participation record (21, 4, "23/11/2003")
+OK!
+Inserting Participation record (84, 10, "02/11/1990")
+OK!
+Inserting Participation record (122, 13, "26/10/2002")
+OK!
+Inserting Participation record (366, 29, "03/03/2005")
+OK!
+Inserting Participation record (103, 13, "04/09/1994")
+OK!
+Inserting Participation record (72, 9, "01/01/1999")
+OK!
+Inserting Participation record (1, 0, "06/09/2004")
+OK!
+Inserting Participation record (191, 21, "22/07/2003")
+OK!
+Inserting Participation record (309, 28, "18/08/2002")
+OK!
+Inserting Participation record (314, 28, "02/08/1993")
+OK!
+Inserting Participation record (303, 28, "12/09/1989")
+OK!
+Inserting Participation record (370, 30, "07/08/1990")
+OK!
+Inserting Participation record (135, 16, "15/01/2003")
+OK!
+Inserting Participation record (10, 2, "17/09/1998")
+OK!
+Inserting Participation record (314, 28, "18/11/1991")
+OK!
+Inserting Participation record (96, 12, "05/01/2000")
+OK!
+Inserting Participation record (348, 28, "05/07/1989")
+OK!
+Inserting Participation record (72, 9, "22/01/1990")
+OK!
+Inserting Participation record (318, 28, "22/03/1997")
+OK!
+Inserting Participation record (334, 28, "17/03/1989")
+OK!
+Inserting Participation record (177, 19, "16/08/1995")
+OK!
+Inserting Participation record (266, 26, "18/11/1992")
+OK!
+Inserting Participation record (247, 24, "26/01/2003")
+OK!
+Inserting Participation record (297, 28, "07/10/2001")
+OK!
+Inserting Participation record (314, 28, "06/05/1987")
+OK!
+Inserting Participation record (317, 28, "23/08/1996")
+OK!
+Inserting Participation record (289, 27, "20/03/1996")
+OK!
+Inserting Participation record (288, 27, "27/04/2001")
+OK!
+Inserting Participation record (76, 9, "19/02/1988")
+OK!
+Inserting Participation record (381, 31, "09/04/2005")
+OK!
+Inserting Participation record (104, 13, "13/01/1988")
+OK!
+Inserting Participation record (309, 28, "15/02/1994")
+OK!
+Inserting Participation record (348, 28, "03/09/2000")
+OK!
+Inserting Participation record (165, 18, "17/04/2002")
+OK!
+Inserting Participation record (361, 29, "03/03/1994")
+OK!
+Inserting Participation record (191, 21, "15/07/1987")
+OK!
+Inserting Participation record (173, 19, "14/01/2001")
+OK!
+Inserting Participation record (22, 4, "04/01/1994")
+OK!
+Inserting Participation record (230, 24, "16/02/1990")
+OK!
+Inserting Participation record (122, 13, "24/07/2003")
+OK!
+Inserting Participation record (270, 26, "18/08/1993")
+OK!
+Inserting Participation record (235, 24, "21/07/1992")
+OK!
+Inserting Participation record (281, 27, "05/12/1999")
+OK!
+Inserting Participation record (378, 31, "12/05/2001")
+OK!
+Inserting Participation record (207, 21, "15/01/1990")
+OK!
+Inserting Participation record (292, 27, "22/10/1998")
+OK!
+Inserting Participation record (191, 21, "04/06/2001")
+OK!
+Inserting Participation record (378, 31, "05/01/1992")
+OK!
+Inserting Participation record (62, 9, "16/05/1992")
+OK!
+Inserting Participation record (76, 9, "24/04/1996")
+OK!
+Inserting Participation record (374, 31, "05/09/1997")
+OK!
+Inserting Participation record (361, 29, "04/04/1989")
+OK!
+Inserting Participation record (180, 19, "14/07/1989")
+OK!
+Inserting Participation record (113, 13, "01/12/1992")
+OK!
+Inserting Participation record (216, 23, "16/10/1997")
+OK!
+Inserting Participation record (173, 19, "23/08/1993")
+OK!
+Inserting Participation record (279, 27, "27/06/2000")
+OK!
+Inserting Participation record (243, 24, "08/12/2003")
+OK!
+Inserting Participation record (4, 1, "21/04/1994")
+OK!
+Inserting Participation record (159, 17, "26/08/2005")
+OK!
+Inserting Participation record (145, 16, "28/02/2005")
+OK!
+Inserting Participation record (381, 31, "23/02/1995")
+OK!
+Inserting Participation record (191, 21, "18/04/1989")
+OK!
+Inserting Participation record (207, 21, "25/08/2000")
+OK!
+Inserting Participation record (381, 31, "19/08/2002")
+OK!
+Inserting Participation record (289, 27, "15/09/2003")
+OK!
+Inserting Participation record (28, 5, "06/02/2002")
+OK!
+Inserting Participation record (85, 10, "03/02/2001")
+OK!
+Inserting Participation record (90, 12, "28/10/1991")
+OK!
+Inserting Participation record (96, 12, "03/02/1986")
+OK!
+Inserting Participation record (108, 13, "20/09/1996")
+OK!
+Inserting Participation record (178, 19, "14/08/1990")
+OK!
+Inserting Participation record (201, 21, "14/07/2002")
+OK!
+Inserting Participation record (182, 19, "07/05/2005")
+OK!
+Inserting Participation record (53, 8, "24/07/1990")
+OK!
+Inserting Participation record (83, 10, "24/05/2004")
+OK!
+Inserting Participation record (162, 17, "08/01/1995")
+OK!
+Inserting Participation record (136, 16, "11/05/2003")
+OK!
+Inserting Participation record (72, 9, "04/09/1991")
+OK!
+Inserting Participation record (85, 10, "14/01/1991")
+OK!
+Inserting Participation record (159, 17, "08/04/1996")
+OK!
+Inserting Participation record (216, 23, "08/02/1992")
+OK!
+Inserting Participation record (32, 6, "27/01/1997")
+OK!
+Inserting Participation record (173, 19, "08/12/1990")
+OK!
+Inserting Participation record (71, 9, "11/04/2001")
+OK!
+Inserting Participation record (145, 16, "13/05/2000")
+OK!
+Inserting Participation record (371, 30, "16/11/1988")
+OK!
+Inserting Participation record (28, 5, "01/12/2001")
+OK!
+Inserting Participation record (79, 9, "04/01/1987")
+OK!
+Inserting Participation record (195, 21, "21/05/1989")
+OK!
+Inserting Participation record (378, 31, "26/10/1987")
+OK!
+Inserting Participation record (76, 9, "15/06/2004")
+OK!
+Inserting Participation record (4, 1, "17/04/2001")
+OK!
+Inserting Participation record (128, 14, "14/07/1991")
+OK!
+Inserting Participation record (378, 31, "04/08/2004")
+OK!
+Inserting Participation record (141, 16, "14/11/2002")
+OK!
+Inserting Participation record (207, 21, "22/12/1994")
+OK!
+Inserting Participation record (10, 2, "19/12/1999")
+OK!
+Inserting Participation record (253, 24, "04/06/1986")
+OK!
+Inserting Participation record (38, 7, "28/04/1994")
+OK!
+Inserting Participation record (107, 13, "10/09/1989")
+OK!
+Inserting Participation record (28, 5, "27/06/2004")
+OK!
+Inserting Participation record (49, 8, "13/01/2003")
+OK!
+Inserting Participation record (135, 16, "10/04/2004")
+OK!
+Inserting Participation record (169, 18, "04/11/1990")
+OK!
+Inserting Participation record (108, 13, "05/07/1986")
+OK!
+Inserting Participation record (169, 18, "17/06/2001")
+OK!
+Inserting Participation record (72, 9, "12/04/1989")
+OK!
+Inserting Participation record (185, 20, "19/10/1999")
+OK!
+Inserting Participation record (75, 9, "16/08/1994")
+OK!
+Inserting Participation record (266, 26, "10/09/1987")
+OK!
+Inserting Participation record (113, 13, "23/12/1986")
+OK!
+Inserting Participation record (288, 27, "12/10/1997")
+OK!
+Inserting Participation record (186, 20, "25/12/1988")
+OK!
+Inserting Participation record (141, 16, "11/11/2000")
+OK!
+Inserting Participation record (366, 29, "24/11/1995")
+OK!
+Inserting Participation record (230, 24, "14/11/1992")
+OK!
+Inserting Participation record (371, 30, "27/03/1998")
+OK!
+Inserting Participation record (361, 29, "27/09/1990")
+OK!
+Inserting Participation record (37, 7, "08/04/1988")
+OK!
+Inserting Participation record (123, 13, "28/04/2003")
+OK!
+Inserting Participation record (90, 12, "17/06/2004")
+OK!
+Inserting Participation record (195, 21, "08/10/1998")
+OK!
+Inserting Participation record (123, 13, "20/07/1990")
+OK!
+Inserting Participation record (50, 8, "22/09/1998")
+OK!
+Inserting Participation record (177, 19, "01/02/2001")
+OK!
+Inserting Participation record (28, 5, "26/04/1996")
+OK!
+Inserting Participation record (31, 6, "12/02/2001")
+OK!
+Inserting Participation record (150, 16, "01/04/2000")
+OK!
+Inserting Participation record (84, 10, "10/09/1998")
+OK!
+Inserting Participation record (137, 16, "03/07/1988")
+OK!
+Inserting Participation record (226, 24, "25/04/1989")
+OK!
+Inserting Participation record (227, 24, "12/09/1987")
+OK!
+Inserting Participation record (236, 24, "04/09/1990")
+OK!
+Inserting Participation record (178, 19, "08/07/2005")
+OK!
+Inserting Participation record (207, 21, "24/12/2002")
+OK!
+Inserting Participation record (216, 23, "07/02/2005")
+OK!
+Inserting Participation record (117, 13, "09/02/1988")
+OK!
+Inserting Participation record (19, 3, "06/01/1999")
+OK!
+Inserting Participation record (276, 27, "23/04/2000")
+OK!
+Inserting Participation record (239, 24, "27/12/1999")
+OK!
+Inserting Participation record (255, 24, "09/11/2004")
+OK!
+Inserting Participation record (155, 16, "05/06/1998")
+OK!
+Inserting Participation record (254, 24, "24/11/2001")
+OK!
+Inserting Participation record (150, 16, "24/09/1997")
+OK!
+Inserting Participation record (159, 17, "10/03/1994")
+OK!
+Inserting Participation record (230, 24, "04/04/1986")
+OK!
+Inserting Participation record (149, 16, "21/11/1992")
+OK!
+Inserting Participation record (155, 16, "17/11/1992")
+OK!
+Inserting Participation record (127, 14, "14/02/1986")
+OK!
+Inserting Participation record (32, 6, "06/11/1989")
+OK!
+Inserting Participation record (275, 27, "07/10/1991")
+OK!
+Inserting Participation record (4, 1, "21/01/1997")
+OK!
+Inserting Participation record (243, 24, "28/06/2001")
+OK!
+Inserting Participation record (378, 31, "02/03/1994")
+OK!
+Inserting Participation record (247, 24, "15/09/1994")
+OK!
+Inserting Participation record (288, 27, "22/03/1999")
+OK!
+Inserting Participation record (361, 29, "20/01/1998")
+OK!
+Inserting Participation record (109, 13, "24/08/1987")
+OK!
+Inserting Participation record (132, 15, "26/02/1991")
+OK!
+Inserting Participation record (366, 29, "09/06/1997")
+OK!
+Inserting Participation record (201, 21, "03/10/1996")
+OK!
+Inserting Participation record (132, 15, "26/05/1994")
+OK!
+Inserting Participation record (252, 24, "28/10/1987")
+OK!
+Inserting Participation record (95, 12, "28/03/1993")
+OK!
+Inserting Participation record (246, 24, "16/03/1998")
+OK!
+Inserting Participation record (258, 25, "22/10/1988")
+OK!
+Inserting Participation record (155, 16, "26/09/1998")
+OK!
+Inserting Participation record (374, 31, "05/08/2002")
+OK!
+Inserting Participation record (288, 27, "24/05/2003")
+OK!
+Inserting Participation record (371, 30, "26/01/1991")
+OK!
+Inserting Participation record (21, 4, "17/02/1986")
+OK!
+Inserting Participation record (374, 31, "03/03/1997")
+OK!
+Inserting Participation record (72, 9, "11/06/1994")
+OK!
+Inserting Participation record (216, 23, "14/12/1986")
+OK!
+Inserting Participation record (28, 5, "21/12/1990")
+OK!
+Inserting Participation record (32, 6, "01/09/1988")
+OK!
+Inserting Participation record (37, 7, "20/09/1996")
+OK!
+Inserting Participation record (62, 9, "25/12/1993")
+OK!
+Inserting Participation record (257, 25, "21/08/1991")
+OK!
+Inserting Participation record (108, 13, "11/03/1988")
+OK!
+Inserting Participation record (123, 13, "06/03/1994")
+OK!
+Inserting Participation record (155, 16, "26/08/2005")
+OK!
+Inserting Participation record (365, 29, "10/08/1989")
+OK!
+Inserting Participation record (145, 16, "15/01/1998")
+OK!
+Inserting Participation record (239, 24, "02/09/1987")
+OK!
+Inserting Participation record (5, 1, "01/12/1997")
+OK!
+Inserting Participation record (133, 16, "23/06/1990")
+OK!
+Inserting Participation record (194, 21, "19/01/1992")
+OK!
+Inserting Participation record (235, 24, "07/03/1987")
+OK!
+Inserting Participation record (43, 8, "07/11/2002")
+OK!
+Inserting Participation record (85, 10, "11/12/1991")
+OK!
+Inserting Participation record (219, 23, "03/09/2004")
+OK!
+Inserting Participation record (381, 31, "05/06/2003")
+OK!
+Inserting Participation record (385, 31, "26/12/2002")
+OK!
+Inserting Participation record (169, 18, "08/07/1988")
+OK!
+Inserting Participation record (211, 21, "21/04/1988")
+OK!
+Inserting Participation record (381, 31, "21/05/1990")
+OK!
+Inserting Participation record (21, 4, "03/01/1989")
+OK!
+Inserting Participation record (51, 8, "03/07/2003")
+OK!
+Inserting Participation record (32, 6, "28/12/1996")
+OK!
+Inserting Participation record (252, 24, "09/03/1987")
+OK!
+Inserting Participation record (113, 13, "03/01/2003")
+OK!
+Inserting Participation record (127, 14, "20/11/1989")
+OK!
+Inserting Participation record (216, 23, "18/04/1996")
+OK!
+Inserting Participation record (361, 29, "22/05/2000")
+OK!
+Inserting Participation record (1, 0, "22/12/2001")
+OK!
+Inserting Participation record (90, 12, "08/02/1986")
+OK!
+Inserting Participation record (230, 24, "21/02/2005")
+OK!
+Inserting Participation record (108, 13, "09/01/1997")
+OK!
+Inserting Participation record (288, 27, "18/07/2005")
+OK!
+Inserting Participation record (127, 14, "03/02/1991")
+OK!
+Inserting Participation record (227, 24, "10/08/2002")
+OK!
+Inserting Participation record (235, 24, "04/03/2005")
+OK!
+Inserting Participation record (75, 9, "24/08/2002")
+OK!
+Inserting Participation record (141, 16, "16/07/1998")
+OK!
+Inserting Participation record (32, 6, "23/06/1996")
+OK!
+Inserting Participation record (71, 9, "04/10/1991")
+OK!
+Inserting Participation record (136, 16, "15/03/1992")
+OK!
+Inserting Participation record (259, 25, "20/12/1993")
+OK!
+Inserting Participation record (186, 20, "10/08/1989")
+OK!
+Inserting Participation record (83, 10, "13/12/1992")
+OK!
+Inserting Participation record (145, 16, "27/06/2005")
+OK!
+Inserting Participation record (178, 19, "20/06/1987")
+OK!
+Inserting Participation record (180, 19, "26/03/2002")
+OK!
+Inserting Participation record (280, 27, "01/03/2004")
+OK!
+Inserting Participation record (361, 29, "06/06/1998")
+OK!
+Inserting Participation record (243, 24, "09/01/1994")
+OK!
+Inserting Participation record (42, 8, "03/12/2004")
+OK!
+Inserting Participation record (173, 19, "05/06/1989")
+OK!
+Inserting Participation record (280, 27, "12/03/1988")
+OK!
+Inserting Participation record (26, 4, "10/04/1995")
+OK!
+Inserting Participation record (127, 14, "27/07/2000")
+OK!
+Inserting Participation record (162, 17, "19/03/1996")
+OK!
+Inserting Participation record (19, 3, "02/03/1994")
+OK!
+Inserting Participation record (177, 19, "08/05/1988")
+OK!
+Inserting Participation record (180, 19, "03/11/2004")
+OK!
+Inserting Participation record (103, 13, "02/08/1994")
+OK!
+Inserting Participation record (79, 9, "16/04/1996")
+OK!
+Inserting Participation record (239, 24, "20/07/2003")
+OK!
+Inserting Participation record (201, 21, "19/12/2005")
+OK!
+Inserting Participation record (366, 29, "18/12/1994")
+OK!
+Inserting Participation record (122, 13, "01/09/2003")
+OK!
+Inserting Participation record (164, 17, "04/05/2005")
+OK!
+Inserting Participation record (381, 31, "02/08/1999")
+OK!
+Inserting Participation record (230, 24, "19/04/1992")
+OK!
+Inserting Participation record (265, 26, "12/11/1990")
+OK!
+Inserting Participation record (43, 8, "04/06/1989")
+OK!
+Inserting Participation record (191, 21, "17/02/1997")
+OK!
+Inserting Participation record (103, 13, "07/06/2000")
+OK!
+Inserting Participation record (118, 13, "06/01/1991")
+OK!
+Inserting Participation record (135, 16, "03/11/2001")
+OK!
+Inserting Participation record (201, 21, "15/02/1996")
+OK!
+Inserting Participation record (168, 18, "26/11/1996")
+OK!
+Inserting Participation record (361, 29, "26/02/1991")
+OK!
+Inserting Participation record (67, 9, "10/02/1993")
+OK!
+Inserting Participation record (132, 15, "11/01/2003")
+OK!
+Inserting Participation record (162, 17, "11/07/1989")
+OK!
+Inserting Participation record (239, 24, "01/04/1988")
+OK!
+Inserting Participation record (146, 16, "26/12/1997")
+OK!
+Inserting Participation record (61, 9, "17/11/1997")
+OK!
+Inserting Participation record (165, 18, "12/02/2003")
+OK!
+Inserting Participation record (136, 16, "07/05/2000")
+OK!
+Inserting Participation record (235, 24, "27/04/1997")
+OK!
+Inserting Participation record (293, 27, "27/05/1991")
+OK!
+Inserting Participation record (4, 1, "03/12/1996")
+OK!
+Inserting Participation record (27, 4, "21/03/1994")
+OK!
+Inserting Participation record (10, 2, "26/09/1997")
+OK!
+Inserting Participation record (118, 13, "09/08/1994")
+OK!
+Inserting Participation record (173, 19, "27/03/1986")
+OK!
+Inserting Participation record (288, 27, "10/11/1996")
+OK!
+Inserting Participation record (361, 29, "09/03/1990")
+OK!
+Inserting Participation record (154, 16, "14/07/1995")
+OK!
+Inserting Participation record (211, 21, "03/08/2000")
+OK!
+Inserting Participation record (150, 16, "14/08/2004")
+OK!
+Inserting Participation record (79, 9, "08/05/1999")
+OK!
+Inserting Participation record (271, 26, "18/01/1987")
+OK!
+Inserting Participation record (51, 8, "20/12/1991")
+OK!
+Inserting Participation record (9, 2, "12/05/1993")
+OK!
+Inserting Participation record (95, 12, "08/03/1988")
+OK!
+Inserting Participation record (266, 26, "20/03/1996")
+OK!
+Inserting Participation record (381, 31, "22/08/1988")
+OK!
+Inserting Participation record (113, 13, "03/07/1999")
+OK!
+Inserting Participation record (149, 16, "19/08/1986")
+OK!
+Inserting Participation record (246, 24, "13/06/1990")
+OK!
+Inserting Participation record (378, 31, "17/04/1991")
+OK!
+Inserting Participation record (123, 13, "16/09/1996")
+OK!
+Inserting Participation record (90, 12, "09/10/1991")
+OK!
+Inserting Participation record (131, 15, "04/06/2000")
+OK!
+Inserting Participation record (382, 31, "17/02/1993")
+OK!
+Inserting Participation record (80, 9, "08/06/1993")
+OK!
+Inserting Participation record (155, 16, "24/02/2000")
+OK!
+Inserting Participation record (51, 8, "18/12/1986")
+OK!
+Inserting Participation record (235, 24, "20/07/1992")
+OK!
+Inserting Participation record (260, 25, "02/11/1996")
+OK!
+Inserting Participation record (382, 31, "22/06/1987")
+OK!
+Inserting Participation record (4, 1, "16/09/2000")
+OK!
+Inserting Participation record (206, 21, "07/03/2001")
+OK!
+Inserting Participation record (62, 9, "04/05/1993")
+OK!
+Inserting Participation record (201, 21, "06/01/1999")
+OK!
+Inserting Participation record (239, 24, "19/06/2001")
+OK!
+Inserting Participation record (254, 24, "16/05/1987")
+OK!
+Inserting Participation record (173, 19, "17/07/1988")
+OK!
+Inserting Participation record (259, 25, "28/07/2004")
+OK!
+Inserting Participation record (84, 10, "09/07/2002")
+OK!
+Inserting Participation record (141, 16, "01/08/2003")
+OK!
+Inserting Participation record (43, 8, "01/05/2000")
+OK!
+Inserting Participation record (37, 7, "04/12/1998")
+OK!
+Inserting Participation record (79, 9, "18/02/1996")
+OK!
+Inserting Participation record (201, 21, "02/01/2005")
+OK!
+Inserting Participation record (220, 24, "09/01/2005")
+OK!
+Inserting Participation record (276, 27, "26/10/1997")
+OK!
+Inserting Participation record (104, 13, "03/10/1987")
+OK!
+Inserting Participation record (276, 27, "05/09/1994")
+OK!
+Inserting Participation record (370, 30, "18/09/1987")
+OK!
+Inserting Participation record (255, 24, "11/11/1994")
+OK!
+Inserting Participation record (132, 15, "09/07/1994")
+OK!
+Inserting Participation record (271, 26, "01/07/1997")
+OK!
+Inserting Participation record (67, 9, "22/07/1998")
+OK!
+Inserting Participation record (71, 9, "21/03/1995")
+OK!
+Inserting Participation record (123, 13, "17/08/2003")
+OK!
+Inserting Participation record (127, 14, "17/08/1986")
+OK!
+Inserting Participation record (136, 16, "13/11/2001")
+OK!
+Inserting Participation record (361, 29, "13/04/1989")
+OK!
+Inserting Participation record (0, 0, "18/05/2004")
+OK!
+Inserting Participation record (67, 9, "03/12/1988")
+OK!
+Inserting Participation record (141, 16, "16/05/1991")
+OK!
+Inserting Participation record (293, 27, "01/09/1997")
+OK!
+Inserting Participation record (76, 9, "08/01/2004")
+OK!
+Inserting Participation record (0, 0, "16/11/1986")
+OK!
+Inserting Participation record (230, 24, "26/02/1995")
+OK!
+Inserting Participation record (107, 13, "05/08/1997")
+OK!
+Inserting Participation record (177, 19, "20/07/1989")
+OK!
+Inserting Participation record (49, 8, "11/09/1998")
+OK!
+Inserting Participation record (97, 13, "19/04/1989")
+OK!
+Inserting Participation record (135, 16, "12/02/1993")
+OK!
+Inserting Participation record (290, 27, "27/11/1996")
+OK!
+Inserting Participation record (227, 24, "16/11/1990")
+OK!
+Inserting Participation record (260, 25, "04/10/1992")
+OK!
+Inserting Participation record (146, 16, "05/03/1994")
+OK!
+Inserting Participation record (365, 29, "25/09/1987")
+OK!
+Inserting Participation record (1, 0, "06/02/1993")
+OK!
+Inserting Participation record (271, 26, "10/02/1992")
+OK!
+Inserting Participation record (155, 16, "13/05/2002")
+OK!
+Inserting Participation record (162, 17, "16/05/2004")
+OK!
+Inserting Participation record (159, 17, "27/08/2003")
+OK!
+Inserting Participation record (370, 30, "23/06/2000")
+OK!
+Inserting Participation record (201, 21, "18/01/1999")
+OK!
+Inserting Participation record (271, 26, "14/11/2004")
+OK!
+Inserting Participation record (108, 13, "05/04/1997")
+OK!
+Inserting Participation record (15, 2, "10/03/1991")
+OK!
+Inserting Participation record (49, 8, "25/03/1994")
+OK!
+Inserting Participation record (84, 10, "08/02/1996")
+OK!
+Inserting Participation record (235, 24, "01/01/1987")
+OK!
+Inserting Participation record (53, 8, "12/08/1992")
+OK!
+Inserting Participation record (62, 9, "04/02/2004")
+OK!
+Inserting Participation record (127, 14, "03/01/2002")
+OK!
+Inserting Participation record (235, 24, "16/06/2001")
+OK!
+Inserting Participation record (374, 31, "07/06/1995")
+OK!
+Inserting Participation record (159, 17, "04/01/1996")
+OK!
+Inserting Participation record (239, 24, "13/04/1994")
+OK!
+Inserting Participation record (53, 8, "27/10/1997")
+OK!
+Inserting Participation record (272, 26, "08/10/1986")
+OK!
+Inserting Participation record (21, 4, "09/09/2001")
+OK!
+Inserting Participation record (103, 13, "04/12/1995")
+OK!
+Inserting Participation record (4, 1, "10/03/1996")
+OK!
+Inserting Participation record (155, 16, "14/08/2002")
+OK!
+Inserting Participation record (108, 13, "28/02/2002")
+OK!
+Inserting Participation record (211, 21, "21/10/1994")
+OK!
+Inserting Participation record (225, 24, "16/09/1996")
+OK!
+Inserting Participation record (202, 21, "17/12/1986")
+OK!
+Inserting Participation record (118, 13, "04/12/1997")
+OK!
+Inserting Participation record (385, 31, "16/09/2002")
+OK!
+Inserting Participation record (141, 16, "07/03/1990")
+OK!
+Inserting Participation record (220, 24, "21/02/1999")
+OK!
+Inserting Participation record (366, 29, "02/11/1992")
+OK!
+Inserting Participation record (170, 18, "23/05/1992")
+OK!
+Inserting Participation record (22, 4, "01/01/2004")
+OK!
+Inserting Participation record (103, 13, "11/11/2005")
+OK!
+Inserting Participation record (247, 24, "26/08/1987")
+OK!
+Inserting Participation record (90, 12, "15/03/1988")
+OK!
+Inserting Participation record (226, 24, "15/04/1999")
+OK!
+Inserting Participation record (185, 20, "04/07/1995")
+OK!
+Inserting Participation record (248, 24, "21/11/2002")
+OK!
+Inserting Participation record (385, 31, "05/11/1987")
+OK!
+Inserting Participation record (155, 16, "08/08/2001")
+OK!
+Inserting Participation record (195, 21, "24/12/1994")
+OK!
+Inserting Participation record (227, 24, "12/09/1993")
+OK!
+Inserting Participation record (230, 24, "14/09/1986")
+OK!
+Inserting Participation record (42, 8, "20/01/1989")
+OK!
+Inserting Participation record (67, 9, "02/05/1999")
+OK!
+Inserting Participation record (80, 9, "18/11/1997")
+OK!
+Inserting Participation record (122, 13, "22/10/1991")
+OK!
+Inserting Participation record (260, 25, "02/11/1999")
+OK!
+Inserting Participation record (53, 8, "11/06/2003")
+OK!
+Inserting Participation record (271, 26, "13/04/1993")
+OK!
+Inserting Participation record (361, 29, "28/05/1994")
+OK!
+Inserting Participation record (374, 31, "12/05/1986")
+OK!
+Inserting Participation record (177, 19, "08/06/1996")
+OK!
+Inserting Participation record (186, 20, "19/01/1988")
+OK!
+Inserting Participation record (360, 29, "14/02/1993")
+OK!
+Inserting Participation record (37, 7, "06/05/1986")
+OK!
+Inserting Participation record (109, 13, "11/03/1987")
+OK!
+Inserting Participation record (371, 30, "10/03/1990")
+OK!
+Inserting Participation record (150, 16, "10/12/1989")
+OK!
+Inserting Participation record (381, 31, "26/07/1986")
+OK!
+Inserting Participation record (270, 26, "08/11/1988")
+OK!
+Inserting Participation record (180, 19, "24/10/1991")
+OK!
+Inserting Participation record (16, 3, "02/09/1989")
+OK!
+Inserting Participation record (28, 5, "26/10/1990")
+OK!
+Inserting Participation record (16, 3, "17/03/1988")
+OK!
+Inserting Participation record (181, 19, "27/10/2005")
+OK!
+Inserting Participation record (118, 13, "27/06/1993")
+OK!
+Inserting Participation record (211, 21, "06/11/1992")
+OK!
+Inserting Participation record (5, 1, "14/07/2003")
+OK!
+Inserting Participation record (260, 25, "10/07/1988")
+OK!
+Inserting Participation record (378, 31, "09/11/2004")
+OK!
+Inserting Participation record (219, 23, "01/06/1997")
+OK!
+Inserting Participation record (239, 24, "19/02/1998")
+OK!
+Inserting Participation record (378, 31, "18/03/1998")
+OK!
+Inserting Participation record (185, 20, "28/08/1995")
+OK!
+Inserting Participation record (170, 18, "10/04/1994")
+OK!
+Inserting Participation record (254, 24, "13/03/1997")
+OK!
+Inserting Participation record (370, 30, "13/11/1992")
+OK!
+Inserting Participation record (90, 12, "08/10/1990")
+OK!
+Inserting Participation record (141, 16, "04/02/1992")
+OK!
+Inserting Participation record (194, 21, "05/06/1992")
+OK!
+Inserting Participation record (230, 24, "18/04/2001")
+OK!
+Inserting Participation record (90, 12, "23/07/2004")
+OK!
+Inserting Participation record (138, 16, "24/10/2001")
+OK!
+Inserting Participation record (145, 16, "10/10/1991")
+OK!
+Inserting Participation record (124, 13, "20/04/1995")
+OK!
+Inserting Participation record (191, 21, "18/03/2001")
+OK!
+Inserting Participation record (243, 24, "16/01/1991")
+OK!
+Inserting Participation record (248, 24, "06/02/2005")
+OK!
+Inserting Participation record (276, 27, "15/09/1993")
+OK!
+Inserting Participation record (145, 16, "22/10/1994")
+OK!
+Inserting Participation record (385, 31, "02/12/2003")
+OK!
+Inserting Participation record (150, 16, "08/01/1992")
+OK!
+Inserting Participation record (155, 16, "09/05/1990")
+OK!
+Inserting Participation record (186, 20, "18/12/2001")
+OK!
+Inserting Participation record (370, 30, "25/12/1993")
+OK!
+Inserting Participation record (382, 31, "09/10/1998")
+OK!
+Inserting Participation record (220, 24, "19/02/2001")
+OK!
+Inserting Participation record (67, 9, "09/03/1994")
+OK!
+Inserting Participation record (102, 13, "17/03/2003")
+OK!
+Inserting Participation record (173, 19, "14/03/1989")
+OK!
+Inserting Participation record (201, 21, "28/06/1997")
+OK!
+Inserting Participation record (265, 26, "03/07/1986")
+OK!
+Inserting Participation record (17, 3, "01/09/1989")
+OK!
+Inserting Participation record (211, 21, "10/01/2001")
+OK!
+Inserting Participation record (132, 15, "05/06/1998")
+OK!
+Inserting Participation record (142, 16, "05/09/1990")
+OK!
+Inserting Participation record (281, 27, "25/11/1992")
+OK!
+Inserting Participation record (79, 9, "04/02/1996")
+OK!
+Inserting Participation record (149, 16, "23/04/1990")
+OK!
+Inserting Participation record (96, 12, "12/12/2004")
+OK!
+Inserting Participation record (194, 21, "15/05/1992")
+OK!
+Inserting Participation record (261, 25, "18/05/1994")
+OK!
+Inserting Participation record (84, 10, "28/10/1992")
+OK!
+Inserting Participation record (27, 4, "01/06/2004")
+OK!
+Inserting Participation record (80, 9, "18/10/1989")
+OK!
+Inserting Participation record (164, 17, "11/04/2002")
+OK!
+Inserting Participation record (162, 17, "12/05/1993")
+OK!
+Inserting Participation record (220, 24, "10/11/1987")
+OK!
+Inserting Participation record (190, 20, "21/07/1991")
+OK!
+Inserting Participation record (259, 25, "24/09/2000")
+OK!
+Inserting Participation record (32, 6, "10/01/2002")
+OK!
+Inserting Participation record (37, 7, "21/04/1988")
+OK!
+Inserting Participation record (42, 8, "19/04/1994")
+OK!
+Inserting Participation record (76, 9, "12/07/1995")
+OK!
+Inserting Participation record (185, 20, "28/10/1992")
+OK!
+Inserting Participation record (28, 5, "01/05/1993")
+OK!
+Inserting Participation record (113, 13, "08/05/2001")
+OK!
+Inserting Participation record (173, 19, "28/08/1995")
+OK!
+Inserting Participation record (76, 9, "27/12/2001")
+OK!
+Inserting Participation record (123, 13, "27/06/1986")
+OK!
+Inserting Participation record (127, 14, "18/12/1990")
+OK!
+Inserting Participation record (96, 12, "20/10/1988")
+OK!
+Inserting Participation record (280, 27, "26/01/1994")
+OK!
+Inserting Participation record (186, 20, "26/07/1995")
+OK!
+Inserting Participation record (127, 14, "27/09/1989")
+OK!
+Inserting Participation record (90, 12, "05/10/1993")
+OK!
+Inserting Participation record (150, 16, "24/01/2004")
+OK!
+Inserting Participation record (219, 23, "17/12/2005")
+OK!
+Inserting Participation record (366, 29, "18/06/1986")
+OK!
+Inserting Participation record (9, 2, "12/10/2002")
+OK!
+Inserting Participation record (239, 24, "07/05/2002")
+OK!
+Inserting Participation record (42, 8, "28/11/1990")
+OK!
+Inserting Participation record (113, 13, "10/06/1989")
+OK!
+Inserting Participation record (191, 21, "23/12/1994")
+OK!
+Inserting Participation record (271, 26, "20/01/1997")
+OK!
+Inserting Participation record (226, 24, "17/11/1995")
+OK!
+Inserting Participation record (1, 0, "24/01/1988")
+OK!
+Inserting Participation record (118, 13, "06/11/1997")
+OK!
+Inserting Participation record (51, 8, "24/01/1986")
+OK!
+Inserting Participation record (123, 13, "07/02/1994")
+OK!
+Inserting Participation record (10, 2, "06/09/1988")
+OK!
+Inserting Participation record (124, 13, "02/06/1986")
+OK!
+Inserting Participation record (37, 7, "09/11/1986")
+OK!
+Inserting Participation record (138, 16, "14/04/1993")
+OK!
+Inserting Participation record (177, 19, "17/09/1987")
+OK!
+Inserting Participation record (50, 8, "17/08/1997")
+OK!
+Inserting Participation record (226, 24, "02/08/1986")
+OK!
+Inserting Participation record (247, 24, "22/06/1994")
+OK!
+Inserting Participation record (365, 29, "07/06/1997")
+OK!
+Inserting Participation record (235, 24, "13/11/1997")
+OK!
+Inserting Participation record (90, 12, "05/07/2000")
+OK!
+Inserting Participation record (155, 16, "12/07/1999")
+OK!
+Inserting Participation record (361, 29, "25/04/2003")
+OK!
+Inserting Participation record (108, 13, "07/11/1994")
+OK!
+Inserting Participation record (288, 27, "18/03/1986")
+OK!
+Inserting Participation record (168, 18, "18/09/1993")
+OK!
+Inserting Participation record (266, 26, "14/05/1995")
+OK!
+Inserting Participation record (281, 27, "09/11/2002")
+OK!
+Inserting Participation record (28, 5, "13/04/2005")
+OK!
+Inserting Participation record (32, 6, "26/04/2001")
+OK!
+Inserting Participation record (378, 31, "20/03/2001")
+OK!
+Inserting Participation record (181, 19, "09/12/2001")
+OK!
+Inserting Participation record (132, 15, "06/08/2004")
+OK!
+Inserting Participation record (117, 13, "05/09/1993")
+OK!
+Inserting Participation record (230, 24, "12/08/1990")
+OK!
+Inserting Participation record (293, 27, "09/06/2004")
+OK!
+Inserting Participation record (109, 13, "21/04/2004")
+OK!
+Inserting Participation record (370, 30, "15/02/1995")
+OK!
+Inserting Participation record (20, 4, "11/12/2003")
+OK!
+Inserting Participation record (367, 29, "16/03/1992")
+OK!
+Inserting Participation record (289, 27, "22/04/1994")
+OK!
+Inserting Participation record (280, 27, "04/07/1991")
+OK!
+Inserting Participation record (374, 31, "28/05/2000")
+OK!
+Inserting Participation record (80, 9, "19/11/1987")
+OK!
+Inserting Participation record (266, 26, "22/03/1988")
+OK!
+Inserting Participation record (72, 9, "17/02/1999")
+OK!
+Inserting Participation record (378, 31, "09/02/1996")
+OK!
+Inserting Participation record (190, 20, "23/12/1996")
+OK!
+Inserting Participation record (194, 21, "14/10/2000")
+OK!
+Inserting Participation record (243, 24, "17/04/2004")
+OK!
+Inserting Participation record (113, 13, "20/06/1989")
+OK!
+Inserting Participation record (4, 1, "04/01/2003")
+OK!
+Inserting Participation record (239, 24, "28/03/1997")
+OK!
+Inserting Participation record (173, 19, "12/12/1997")
+OK!
+Inserting Participation record (239, 24, "14/04/1996")
+OK!
+Inserting Participation record (54, 8, "01/04/1993")
+OK!
+Inserting Participation record (266, 26, "16/06/1992")
+OK!
+Inserting Participation record (108, 13, "09/03/1998")
+OK!
+Inserting Participation record (169, 18, "13/04/2003")
+OK!
+Inserting Participation record (195, 21, "13/10/1989")
+OK!
+Inserting Participation record (173, 19, "19/07/1988")
+OK!
+Inserting Participation record (181, 19, "07/08/1988")
+OK!
+Inserting Participation record (247, 24, "28/09/1998")
+OK!
+Inserting Participation record (293, 27, "21/06/1990")
+OK!
+Inserting Participation record (141, 16, "22/01/1996")
+OK!
+Inserting Participation record (293, 27, "17/11/1997")
+OK!
+Inserting Participation record (75, 9, "16/11/2005")
+OK!
+Inserting Participation record (96, 12, "10/02/2002")
+OK!
+Inserting Participation record (142, 16, "06/08/1988")
+OK!
+Inserting Participation record (127, 14, "20/01/2002")
+OK!
+Inserting Participation record (133, 16, "07/05/1990")
+OK!
+Inserting Participation record (61, 9, "07/07/2005")
+OK!
+Inserting Participation record (149, 16, "10/09/1998")
+OK!
+Inserting Participation record (207, 21, "16/10/2002")
+OK!

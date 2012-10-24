@@ -1,0 +1,127 @@
+/* Δημιουργία 4 σχέσεων */
+CREATE STUDENTS (studId='i', studName='c50', studYear='i');
+CREATE GRADES (studId='i', studGrade='f');
+CREATE GRADES_EXPANDED (studId='i', studGrade='f', minRequested='f');
+CREATE STUDENTS_BACKUP (studId='i', studName='c50', studYear='i');
+
+/* Δημιουργία ευρετηρίου στα πεδία studId και studId των σχέσεων STUDENTS και GRADES αντίστοιχα. */
+BUILDINDEX STUDENTS(studId);
+BUILDINDEX GRADES(studId);
+
+/* Εισαγωγή εγγραφών για τους Μαθητές */
+INSERT STUDENTS (studName="Antonis", studYear=5, studId=1023);
+INSERT STUDENTS (studName="Mitsos", studYear=3, studId=1024);
+INSERT STUDENTS (studName="Baggelhs", studYear=2, studId=1025);
+INSERT STUDENTS (studName="Mpamphs", studYear=4, studId=1026);
+INSERT STUDENTS (studName="Lamphs", studYear=1, studId=1027);
+INSERT STUDENTS (studName="Pozeras", studYear=5, studId=1028);
+INSERT STUDENTS (studName="Kitsos", studYear=2, studId=1029);
+INSERT STUDENTS (studName="Xaxas", studYear=5, studId=1030);
+INSERT STUDENTS (studName="Koula", studYear=6, studId=1031);
+INSERT STUDENTS (studName="Katia", studYear=4, studId=1032);
+INSERT STUDENTS (studYear=2, studName="Tritotomiths", studId=1033);
+INSERT STUDENTS (studId=1034, studName="Maria", studYear=1);
+
+/* Εισαγωγή εγγραφών για τους Βαθμούς */
+INSERT GRADES (studId=1023, studGrade=7.9);
+INSERT GRADES (studId=1024, studGrade=3.5);
+INSERT GRADES (studId=1027, studGrade=5.0);
+INSERT GRADES (studId=1028, studGrade=6.1);
+INSERT GRADES (studId=1030, studGrade=8.1);
+INSERT GRADES (studId=1031, studGrade=9.3);
+INSERT GRADES (studId=1032, studGrade=10.0);
+INSERT GRADES (studId=1034, studGrade=3.5);
+
+/* Εισαγωγή εγγραφών για τους Μαθητές που κρατάμε στο BACKUP */
+INSERT STUDENTS_BACKUP (studName="Piphs", studYear=6, studId=1035);
+INSERT STUDENTS_BACKUP (studName="Chef", studYear=8, studId=1036);
+INSERT STUDENTS_BACKUP (studName="Boobz", studYear=3, studId=1037);
+INSERT STUDENTS_BACKUP (studName="Giannhs", studYear=3, studId=1038);
+INSERT STUDENTS_BACKUP (studName="Aglaia", studYear=1, studId=1039);
+
+/* Εισαγωγή εγγραφών για τους Βαθμούς Mε Κριτήριο */
+INSERT GRADES_EXPANDED (studId=1023, studGrade=7.9, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1024, studGrade=3.5, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1027, studGrade=5.0, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1028, studGrade=6.1, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1030, studGrade=8.1, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1031, studGrade=9.3, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1032, studGrade=10.0, minRequested=5.0);
+INSERT GRADES_EXPANDED (studId=1034, studGrade=3.5, minRequested=5.0);
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Επιλογή με απλή συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear) WHERE STUDENTS.studYear>4;
+
+/* Επιλογή με απλή συνθήκη για να χρησιμοποιηθεί το ευρετήριο της σχέσης */
+SELECT (STUDENTS.studName, STUDENTS.studYear) WHERE STUDENTS.studId=1026;
+
+/* Απλή ζεύξη */
+SELECT (STUDENTS.studName, GRADES.studGrade) WHERE STUDENTS.studId=GRADES.studId;
+
+/* Επιλογή χωρίς συνθήκη και αποθήκευση αποτελέσματος σε νέα σχέση */
+SELECT INTO STUDENTS_TEMP (STUDENTS.studName, STUDENTS.studYear);
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS_TEMP.studName, STUDENTS_TEMP.studYear);
+
+/* Επιλογή με απλή συνθήκη και αποθήκευση αποτελέσματος σε νέα σχέση */
+SELECT INTO OLDER_STUDENTS (STUDENTS.studName, STUDENTS.studYear) WHERE STUDENTS.studYear>4;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (OLDER_STUDENTS.studName, OLDER_STUDENTS.studYear);
+
+/* Απλή ζεύξη και αποθήκευση αποτελέσματος σε νέα σχέση */
+SELECT INTO STUDENTS_GRADES (STUDENTS.studName, GRADES.studGrade) WHERE STUDENTS.studId=GRADES.studId;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS_GRADES.studName, STUDENTS_GRADES.studGrade);
+
+/* Εισαγωγή εγγραφών που περιέχονται σε άλλη σχέση */
+INSERT STUDENTS RECORDS OF STUDENTS_BACKUP;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Διαγραφή εγγραφών που περιέχονται σε άλλη σχέση */
+DELETE STUDENTS RECORDS OF STUDENTS_BACKUP;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Διαγραφή με απλή συνθήκη */
+DELETE STUDENTS WHERE studYear>4;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Διαγραφή με απλή συνθήκη για να χρησιμοποιηθεί το ευρετήριο της σχέσης */
+DELETE STUDENTS WHERE studId!=1024;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Διαγραφή χωρίς συνθήκη */
+DELETE STUDENTS;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (STUDENTS.studName, STUDENTS.studYear);
+
+/* Διαγραφή χωρίς συνθήκη */
+DELETE GRADES;
+
+/* Επιλογή χωρίς συνθήκη */
+SELECT (GRADES.studId, GRADES.studGrade);
+
+/* Διαγραφή αρχικών σχέσεων */
+DESTROY STUDENTS;
+DESTROY GRADES;
+DESTROY GRADES_EXPANDED;
+DESTROY STUDENTS_BACKUP;
+
+/* Διαγραφή σχέσεων που κατασκευάστηκαν ενδιάμεσα */
+DESTROY STUDENTS_TEMP;
+DESTROY OLDER_STUDENTS;
+DESTROY STUDENTS_GRADES;
